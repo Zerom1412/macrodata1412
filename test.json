@@ -1,32 +1,5 @@
 [
   {
-    "InOutAccountType": "INPUT"
-  },
-  {
-    "InOutAccountType": "INPUT"
-  },
-  {
-    "InOutAccountType": "OUTPUT"
-  },
-  {
-    "InOutAccountType": "OUTPUT"
-  },
-  {
-    "InOutAccountType": "OUTPUT"
-  },
-  {
-    "InOutAccountType": "OUTPUT"
-  },
-  {
-    "InOutAccountType": "INPUT"
-  },
-  {
-    "InOutAccountType": "OUTPUT"
-  },
-  {
-    "InOutAccountType": "OUTPUT"
-  },
-  {
-    "InOutAccountType": "OUTPUT"
+    "PayAmount": 1500
   }
 ]
