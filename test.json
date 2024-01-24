@@ -1,11 +1,5 @@
 [
   {
-    "ProdGroupName_ko": "\uc5d1\uc2a4\ud2b8\ub77c\ud5e4\uc774\uc990\ub11b\ud06c\ub9bc \uc6e8\uc774\ud37c 50g",
-    "ProdGroupName_en": "Extra Wafer Hazelnut 50g",
-    "SalePrice": 500,
-    "ProdGroupProdCount": 712,
-    "BarCodeBarCode": "8695504168725",
-    "Ins_Date": "2024-01-15 10:29:03.073",
-    "Up_Date": "2024-01-22 18:57:05.576"
+    "InOutAccountType": "INPUT"
   }
 ]
