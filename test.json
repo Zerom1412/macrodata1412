@@ -1,32 +1,92 @@
 [
   {
-    "InOutAccountType": "INPUT"
+    "ProdGroupName_ko": "\uc5d1\uc2a4\ud2b8\ub77c\ud5e4\uc774\uc990\ub11b\ud06c\ub9bc \uc6e8\uc774\ud37c 50g",
+    "ProdGroupName_en": "Extra Wafer Hazelnut 50g",
+    "SalePrice": 500,
+    "ProdGroupProdCount": 712,
+    "BarCodeBarCode": "8695504168725",
+    "Ins_Date": "2024-01-15 10:29:03.073",
+    "Up_Date": "2024-01-22 18:57:05.576"
   },
   {
-    "InOutAccountType": "INPUT"
+    "ProdGroupName_ko": "\ucfe0\ud0a4\uc2a4 \ubc84\ud130 \ucfe0\ud0a4 90g",
+    "ProdGroupName_en": "Kukis Butter Cookies 90g",
+    "SalePrice": 1000,
+    "ProdGroupProdCount": 72,
+    "BarCodeBarCode": "8998389621317",
+    "Ins_Date": "2024-01-15 10:29:03.075",
+    "Up_Date": "2024-01-15 10:29:03.075"
   },
   {
-    "InOutAccountType": "OUTPUT"
+    "ProdGroupName_ko": "\ubaac\ud14c\uace0 \ucd08\ucf54\uce69 \ucfe0\ud0a4 85g",
+    "ProdGroupName_en": "Montego Double choko cookies 85g",
+    "SalePrice": 1000,
+    "ProdGroupProdCount": 72,
+    "BarCodeBarCode": "8998389121572",
+    "Ins_Date": "2024-01-15 10:29:03.078",
+    "Up_Date": "2024-01-15 10:29:03.078"
   },
   {
-    "InOutAccountType": "OUTPUT"
+    "ProdGroupName_ko": "\ud06c\ub808\ub9c8\ub9ac\ud5e4\uc774\uc990\ub11b\ud06c\ub9bc\ube44\uc2a4\ud0b7 61g",
+    "ProdGroupName_en": "Biscuit With Hazelnut Cream 61g",
+    "SalePrice": 500,
+    "ProdGroupProdCount": 120,
+    "BarCodeBarCode": "8690120508528",
+    "Ins_Date": "2024-01-15 10:29:03.081",
+    "Up_Date": "2024-01-15 10:29:03.081"
   },
   {
-    "InOutAccountType": "OUTPUT"
+    "ProdGroupName_ko": "\ud06c\ub808\ub9c8\ub9ac\ucd08\ucf5c\ub9bf\ud06c\ub9bc\ube44\uc2a4\ud0b7 61g",
+    "ProdGroupName_en": "Biscuit With Chocolate Cream 61g",
+    "SalePrice": 500,
+    "ProdGroupProdCount": 120,
+    "BarCodeBarCode": "8690120509792",
+    "Ins_Date": "2024-01-15 10:29:03.083",
+    "Up_Date": "2024-01-15 10:29:03.083"
   },
   {
-    "InOutAccountType": "OUTPUT"
+    "ProdGroupName_ko": "\ud06c\ub808\ub9c8\ub9ac\ud50c\ub808\uc778\ud06c\ub9bc\ube44\uc2a4\ud0b7 61g",
+    "ProdGroupName_en": "Biscuit With Plane Cream 61g",
+    "SalePrice": 500,
+    "ProdGroupProdCount": 120,
+    "BarCodeBarCode": "8690120508481",
+    "Ins_Date": "2024-01-15 10:29:03.086",
+    "Up_Date": "2024-01-15 10:29:03.086"
   },
   {
-    "InOutAccountType": "INPUT"
+    "ProdGroupName_ko": "\ub9e5\uc624\ud2f0\uac74\ud3ec\ub3c4\ucd08\ucf54\uce69\uc624\ud2b8\ucfe0\ud0a4 80g",
+    "ProdGroupName_en": "Raisin & Chocolate Chipt Oat Cookies 80g",
+    "SalePrice": 1000,
+    "ProdGroupProdCount": 50,
+    "BarCodeBarCode": "9555701502878",
+    "Ins_Date": "2024-01-15 10:29:03.088",
+    "Up_Date": "2024-01-22 18:57:05.576"
   },
   {
-    "InOutAccountType": "OUTPUT"
+    "ProdGroupName_ko": "\ub9e5\uc624\ud2f0\ucd08\ucf5c\ub9bf\uce69\uc624\ud2b8\ucfe0\ud0a4 80g",
+    "ProdGroupName_en": "Chocolate Chips Oat Cookies 80g",
+    "SalePrice": 1000,
+    "ProdGroupProdCount": 48,
+    "BarCodeBarCode": "9555701508498",
+    "Ins_Date": "2024-01-15 10:29:03.091",
+    "Up_Date": "2024-01-15 10:29:03.091"
   },
   {
-    "InOutAccountType": "OUTPUT"
+    "ProdGroupName_ko": "\ud558\ub9ac\uce74 40g",
+    "ProdGroupName_en": "Harika 40g",
+    "SalePrice": 1000,
+    "ProdGroupProdCount": 431,
+    "BarCodeBarCode": "8690562011228",
+    "Ins_Date": "2024-01-15 10:29:03.093",
+    "Up_Date": "2024-01-22 18:57:05.576"
   },
   {
-    "InOutAccountType": "OUTPUT"
+    "ProdGroupName_ko": "\ub370\ub098 \ub538\uae30\ud63c\ud569\ub125\ud0c0\ub974 1L",
+    "ProdGroupName_en": "Dena Berry Mix 1L",
+    "SalePrice": 3000,
+    "ProdGroupProdCount": 12,
+    "BarCodeBarCode": "4780016370835",
+    "Ins_Date": "2024-01-15 10:29:03.096",
+    "Up_Date": "2024-01-15 10:29:03.096"
   }
 ]
