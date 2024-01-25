@@ -9,5 +9,16 @@
     "BuycompanyName": "\ube44\uc528\uce74\ub4dc",
     "Msg1": "\uac70\ub798 \uc2b9\uc778",
     "Msg2": ""
+  },
+  {
+    "Idx": 2,
+    "InsDate": "2024-01-25 21:48:59.707",
+    "ApprovalDate": "240125214859",
+    "PayAmount": 1500,
+    "IssCompanyCode": "000",
+    "CardName": "\ud55c\ud328\uc2a4\uccb4\ud06c",
+    "BuycompanyName": "\ube44\uc528\uce74\ub4dc",
+    "Msg1": "\uac70\ub798 \uc2b9\uc778",
+    "Msg2": ""
   }
 ]
