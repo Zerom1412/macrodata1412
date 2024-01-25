@@ -603,5 +603,93 @@
     "OutDevice_Amount": 1000,
     "OutDevice_Count": 1,
     "OutDevice_RemainAmount": -16100
+  },
+  {
+    "Idx": 56,
+    "InsDate": "2024-01-25 21:55:05.952",
+    "InOutAccountType": "INPUT",
+    "InDevice_Amount": 500,
+    "InDevice_Count": 1,
+    "InDevice_RemainAmount": 22600,
+    "OutDevice_Amount": 0,
+    "OutDevice_Count": 0,
+    "OutDevice_RemainAmount": -16100
+  },
+  {
+    "Idx": 57,
+    "InsDate": "2024-01-25 21:56:05.777",
+    "InOutAccountType": "INPUT",
+    "InDevice_Amount": 1000,
+    "InDevice_Count": 1,
+    "InDevice_RemainAmount": 23600,
+    "OutDevice_Amount": 0,
+    "OutDevice_Count": 0,
+    "OutDevice_RemainAmount": -16100
+  },
+  {
+    "Idx": 58,
+    "InsDate": "2024-01-25 21:56:10.904",
+    "InOutAccountType": "INPUT",
+    "InDevice_Amount": 1000,
+    "InDevice_Count": 1,
+    "InDevice_RemainAmount": 24600,
+    "OutDevice_Amount": 0,
+    "OutDevice_Count": 0,
+    "OutDevice_RemainAmount": -16100
+  },
+  {
+    "Idx": 59,
+    "InsDate": "2024-01-25 21:56:13.144",
+    "InOutAccountType": "OUTPUT",
+    "InDevice_Amount": 0,
+    "InDevice_Count": 0,
+    "InDevice_RemainAmount": 24600,
+    "OutDevice_Amount": 100,
+    "OutDevice_Count": 1,
+    "OutDevice_RemainAmount": -16200
+  },
+  {
+    "Idx": 60,
+    "InsDate": "2024-01-25 21:56:13.571",
+    "InOutAccountType": "OUTPUT",
+    "InDevice_Amount": 0,
+    "InDevice_Count": 0,
+    "InDevice_RemainAmount": 24600,
+    "OutDevice_Amount": 100,
+    "OutDevice_Count": 1,
+    "OutDevice_RemainAmount": -16300
+  },
+  {
+    "Idx": 61,
+    "InsDate": "2024-01-25 21:56:13.578",
+    "InOutAccountType": "OUTPUT",
+    "InDevice_Amount": 0,
+    "InDevice_Count": 0,
+    "InDevice_RemainAmount": 24600,
+    "OutDevice_Amount": 100,
+    "OutDevice_Count": 1,
+    "OutDevice_RemainAmount": -16400
+  },
+  {
+    "Idx": 62,
+    "InsDate": "2024-01-25 21:56:13.910",
+    "InOutAccountType": "OUTPUT",
+    "InDevice_Amount": 0,
+    "InDevice_Count": 0,
+    "InDevice_RemainAmount": 24600,
+    "OutDevice_Amount": 100,
+    "OutDevice_Count": 1,
+    "OutDevice_RemainAmount": -16500
+  },
+  {
+    "Idx": 63,
+    "InsDate": "2024-01-25 21:56:14.254",
+    "InOutAccountType": "OUTPUT",
+    "InDevice_Amount": 0,
+    "InDevice_Count": 0,
+    "InDevice_RemainAmount": 24600,
+    "OutDevice_Amount": 100,
+    "OutDevice_Count": 1,
+    "OutDevice_RemainAmount": -16600
   }
 ]
