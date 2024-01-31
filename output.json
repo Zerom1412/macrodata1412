@@ -56,7 +56,7 @@
   "Count": 120,
   "Barcode": "8690120509792",
   "MaxShow": 60,
-  "NowShow": 60,
+  "NowShow": 1,
   "ImageSrc": "https://jnjint.kr/web/product/big/202301/78435c24a7a9bae715651854e0bfa30b.png"
  },
  {
@@ -68,7 +68,7 @@
   "Count": 120,
   "Barcode": "8690120508481",
   "MaxShow": 60,
-  "NowShow": 60,
+  "NowShow": 0,
   "ImageSrc": "https://jnjint.kr/web/product/big/202301/78435c24a7a9bae715651854e0bfa30b.png"
  },
  {
