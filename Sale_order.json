@@ -143,5 +143,10 @@
     "InsDate": "2024-02-25 12:56:14.279",
     "ApprovalType": "CASH",
     "PayApprovalAmount": 2000
+  },
+  {
+    "InsDate": "2024-02-25 13:45:38.451",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 500
   }
 ]
