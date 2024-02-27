@@ -226,5 +226,17 @@
     "ItemPrice": 500,
     "ItemCount": 1,
     "Up_Date": "2024-02-25 13:45:23.441"
+  },
+  {
+    "ItemName": "\ud558\ub9ac\uce74\ubbf8\ub2c8\uc2a4 500g",
+    "ItemPrice": 5000,
+    "ItemCount": 2,
+    "Up_Date": "2024-02-27 21:54:46.151"
+  },
+  {
+    "ItemName": "\ub370\ub098 \ub538\uae30\ud63c\ud558\ub125\ud0c0\ub974 1L",
+    "ItemPrice": 3000,
+    "ItemCount": 4,
+    "Up_Date": "2024-02-27 21:54:57.990"
   }
 ]
