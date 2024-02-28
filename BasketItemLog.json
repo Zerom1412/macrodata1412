@@ -238,5 +238,29 @@
     "ItemPrice": 3000,
     "ItemCount": 4,
     "Up_Date": "2024-02-27 21:54:57.990"
+  },
+  {
+    "ItemName": "\ud06c\ub808\ub9c8\ub9ac\ud5e4\uc774\uc990\ub11b\ud06c\ub9bc\ube44\uc2a4\ud0b7 61g",
+    "ItemPrice": 500,
+    "ItemCount": 1,
+    "Up_Date": "2024-02-28 10:54:40.552"
+  },
+  {
+    "ItemName": "\ud06c\ub808\ub9c8\ub9ac\ud50c\ub808\uc778\ud06c\ub9bc\ube44\uc2a4\ud0b7 61g",
+    "ItemPrice": 500,
+    "ItemCount": 1,
+    "Up_Date": "2024-02-28 10:54:42.025"
+  },
+  {
+    "ItemName": "\ud2b8\ub7ec\ud50c\ucd08\ucf5c\ub9bf(\ud5e4\uc774\uc990\ub11b\ub9db) 92g",
+    "ItemPrice": 1000,
+    "ItemCount": 1,
+    "Up_Date": "2024-02-28 10:54:44.327"
+  },
+  {
+    "ItemName": "\uc5d0\uc774\ube44\uc528 \uce74\ub9ac\uc544\uc58c \uce58\ud0a8\ucee4\ub9ac\ud5a5 60g",
+    "ItemPrice": 1500,
+    "ItemCount": 3,
+    "Up_Date": "2024-02-28 10:54:49.647"
   }
 ]
