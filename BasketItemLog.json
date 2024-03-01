@@ -274,5 +274,53 @@
     "ItemPrice": 8000,
     "ItemCount": 1,
     "Up_Date": "2024-02-28 20:47:48.096"
+  },
+  {
+    "ItemName": "\uc5d0\uc774\ube44\uc528 \uc544\uc58c \ubc14\uc655 60g",
+    "ItemPrice": 1500,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-01 19:37:09.085"
+  },
+  {
+    "ItemName": "\uc5d0\uc774\ube44\uc528 \uc18c\ud1a0\uc544\uc58c \uce58\ud0a8\uc18c\ud1a0\ud5a5 60g",
+    "ItemPrice": 1500,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-01 19:37:14.717"
+  },
+  {
+    "ItemName": "Non Large",
+    "ItemPrice": 4000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-01 19:37:24.430"
+  },
+  {
+    "ItemName": "Super Salyami 500g",
+    "ItemPrice": 9500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-01 20:58:35.874"
+  },
+  {
+    "ItemName": "\uc5d0\uc774\ube44\uc528 \uce74\ub9ac\uc544\uc58c \uce58\ud0a8\ucee4\ub9ac\ud5a5 60g",
+    "ItemPrice": 1500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-01 20:59:38.658"
+  },
+  {
+    "ItemName": "\ub514\uba54\uc2a4 \uc0ac\uc6b0\uc5b4\uccb4\ub9ac \ub125\ud0c0 330ml",
+    "ItemPrice": 1500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-01 22:43:17.991"
+  },
+  {
+    "ItemName": "\ub85c\uc584\ube0c\ub9ac\ud2f0\uc2dc\ucf54\ucf54\ub11b\ucfe0\ud0a4 80g",
+    "ItemPrice": 1000,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-01 22:44:07.844"
+  },
+  {
+    "ItemName": "\ud53c\uc544\ud1a0\uc2a4 \uce58\uc988\ud5a5 \uac10\uc790\uce69 85g",
+    "ItemPrice": 1000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-01 22:44:13.400"
   }
 ]
