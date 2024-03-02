@@ -394,5 +394,77 @@
     "ItemPrice": 1500,
     "ItemCount": 1,
     "Up_Date": "2024-03-02 18:10:39.827"
+  },
+  {
+    "ItemName": "\uac8c\ub9ac \ucf54\ucf54\ub11b \ud06c\ub798\ucee4 100g",
+    "ItemPrice": 1200,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-02 19:14:32.646"
+  },
+  {
+    "ItemName": "\uc288\uac00\ubc00\ud0a4\ud06c\ub808\ucee4 108g",
+    "ItemPrice": 1000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-02 19:14:37.784"
+  },
+  {
+    "ItemName": "\ube44\ud30c\ud551\uac70\ube44\uc2a4\ud0b7 780g",
+    "ItemPrice": 4000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-02 19:21:19.239"
+  },
+  {
+    "ItemName": "\uce58\ud0a8\ucee4\ub9ac\ud5a5\ub77c\uba74 80g",
+    "ItemPrice": 600,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-02 19:21:38.759"
+  },
+  {
+    "ItemName": "\ubbf8\uace0\ub7ad\ub77c\uba74 80g",
+    "ItemPrice": 600,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-02 19:22:17.670"
+  },
+  {
+    "ItemName": "\ubbf8\uace0\ub81d\ud398\ub2e4\uc2a4\ud56b\ub77c\uba74 80g",
+    "ItemPrice": 600,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-02 19:22:00.085"
+  },
+  {
+    "ItemName": "\uc18c\ud1a0\ubbf8\ud5a5\ub77c\uba74 75g",
+    "ItemPrice": 600,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-02 19:22:13.317"
+  },
+  {
+    "ItemName": "\ub514\uba54\uc2a4 \ubcf5\uc22d\uc544 \ub125\ud0c0 330ml",
+    "ItemPrice": 1500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-02 19:37:01.858"
+  },
+  {
+    "ItemName": "\ub2c8\uc2e0\uc640\ud37c \ub545\ucf69\ub9db 100g",
+    "ItemPrice": 1000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-02 19:37:05.161"
+  },
+  {
+    "ItemName": "\ub2c9\uc2a4 XXL 50g",
+    "ItemPrice": 500,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-02 19:37:11.956"
+  },
+  {
+    "ItemName": "Non Large",
+    "ItemPrice": 4000,
+    "ItemCount": 5,
+    "Up_Date": "2024-03-02 21:56:29.088"
+  },
+  {
+    "ItemName": "\ud3ec\ucee4\uc2a4 \ube44\uc2a4\ud0b7 128g",
+    "ItemPrice": 1500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-02 21:56:34.072"
   }
 ]
