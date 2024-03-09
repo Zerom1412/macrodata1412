@@ -1690,5 +1690,65 @@
     "ItemPrice": 7500,
     "ItemCount": 1,
     "Up_Date": "2024-03-09 22:14:09.380"
+  },
+  {
+    "ItemName": "\ud06c\ub808\ub9c8\ub9ac\ucd08\ucf5c\ub9bf\ud06c\ub9bc\ube44\uc2a4\ud0b7 61g",
+    "ItemPrice": 500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 22:39:50.941"
+  },
+  {
+    "ItemName": "\ud06c\ub808\ub9c8\ub9ac\ud5e4\uc774\uc990\ub11b\ud06c\ub9bc\ube44\uc2a4\ud0b7 61g",
+    "ItemPrice": 500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 22:41:49.047"
+  },
+  {
+    "ItemName": "\ub514\uba54\uc2a4 \uc0ac\uc6b0\uc5b4\uccb4\ub9ac \ub125\ud0c0 330ml",
+    "ItemPrice": 1500,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 22:42:40.883"
+  },
+  {
+    "ItemName": "\uc6b8\ub8e8\ub2e4 \ud504\ub8e8\ud2f0 \uc5d1\uc2a4\ud2b8\ub77c \uade4 250ml",
+    "ItemPrice": 1500,
+    "ItemCount": 2,
+    "Up_Date": "2024-03-09 22:46:47.944"
+  },
+  {
+    "ItemName": "\uc6b8\ub8e8\ub2e4 \ud504\ub8e8\ud2f0 \ubcf5\uc22d\uc544\ud5a5 200ml",
+    "ItemPrice": 1000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 22:52:18.420"
+  },
+  {
+    "ItemName": "\ub2c8\ucf08 \uc54c\uc57c \uc544\uc988\uc640 \ub300\ucd94\uc57c\uc790 350g",
+    "ItemPrice": 8000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 22:55:08.179"
+  },
+  {
+    "ItemName": "\ub2c8\ucf08 \uc54c\uc57c \uc544\uc988\uc640 \ub300\ucd94\uc57c\uc790 350g",
+    "ItemPrice": 8000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 22:57:22.058"
+  },
+  {
+    "ItemName": "\uc6e8\uc774\ud37c \ub9c8\uc2a4\ud130 \ub864 \ubc14\ub2d0\ub77c\ud06c\ub9bc 65g",
+    "ItemPrice": 1200,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 22:59:02.995"
+  },
+  {
+    "ItemName": "\uc6b8\ub8e8\ub2e4 \ud504\ub8e8\ud2f0 \uadf8\ub9b0\uc560\ud50c\ud5a5 200ml",
+    "ItemPrice": 1000,
+    "ItemCount": 1,
+    "Up_Date": "2024-03-09 23:03:41.845"
+  },
+  {
+    "ItemName": "\uc6b8\ub8e8\ub2e4 \ud504\ub8e8\ud2f0 \ubcf5\uc22d\uc544\ud5a5 200ml",
+    "ItemPrice": 1000,
+    "ItemCount": 5,
+    "Up_Date": "2024-03-09 23:09:12.228"
   }
 ]
