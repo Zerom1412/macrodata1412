@@ -603,5 +603,55 @@
     "InsDate": "2024-03-09 20:13:55.530",
     "ApprovalType": "CASH",
     "PayApprovalAmount": 1000
+  },
+  {
+    "InsDate": "2024-03-09 20:57:27.313",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 500
+  },
+  {
+    "InsDate": "2024-03-09 20:59:57.345",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 17000
+  },
+  {
+    "InsDate": "2024-03-09 21:00:58.671",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 15500
+  },
+  {
+    "InsDate": "2024-03-09 21:02:28.806",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 2000
+  },
+  {
+    "InsDate": "2024-03-09 21:03:53.231",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 3000
+  },
+  {
+    "InsDate": "2024-03-09 21:10:44.565",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 3000
+  },
+  {
+    "InsDate": "2024-03-09 21:11:36.320",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 1000
+  },
+  {
+    "InsDate": "2024-03-09 21:12:23.247",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 1200
+  },
+  {
+    "InsDate": "2024-03-09 21:21:30.392",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 12200
+  },
+  {
+    "InsDate": "2024-03-09 21:22:48.044",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 2200
   }
 ]
