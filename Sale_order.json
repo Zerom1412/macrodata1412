@@ -778,5 +778,20 @@
     "InsDate": "2024-03-10 03:43:30.798",
     "ApprovalType": "CARD",
     "PayApprovalAmount": 6000
+  },
+  {
+    "InsDate": "2024-03-10 06:44:56.687",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 21500
+  },
+  {
+    "InsDate": "2024-03-10 06:45:39.693",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 16000
+  },
+  {
+    "InsDate": "2024-03-10 06:50:51.089",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 3000
   }
 ]
