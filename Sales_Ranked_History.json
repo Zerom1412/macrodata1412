@@ -1,762 +1,1142 @@
 [
   {
     "Title": "닉스 XXL 50g",
-    "Value": "8690562011907"
+    "Value": 500,
+    "Values": 19,
+    "Valussse": "8690562011907"
   },
   {
     "Title": "틴토밀크 1L",
-    "Value": "5900120011472"
+    "Value": 2000,
+    "Values": 14,
+    "Valussse": "5900120011472"
   },
   {
     "Title": "디메스 사우어체리 넥타 330ml",
-    "Value": "8690558020319"
+    "Value": 1500,
+    "Values": 11,
+    "Valussse": "8690558020319"
   },
   {
     "Title": "마리오 버터 비스킷 90g",
-    "Value": "8904300200349"
+    "Value": 500,
+    "Values": 11,
+    "Valussse": "8904300200349"
   },
   {
     "Title": "크레마리플레인크림비스킷 61g",
-    "Value": "8690120508481"
+    "Value": 500,
+    "Values": 11,
+    "Valussse": "8690120508481"
   },
   {
     "Title": "마리오 코코넛 크런치 비스킷 90g",
-    "Value": "8904300200813"
+    "Value": 500,
+    "Values": 11,
+    "Valussse": "8904300200813"
   },
   {
     "Title": "로얄브리티시코코넛쿠키 80g",
-    "Value": "9555701502854"
+    "Value": 1000,
+    "Values": 10,
+    "Valussse": "9555701502854"
   },
   {
     "Title": "디메스 석류 넥타 330ml",
-    "Value": "8690558029145"
+    "Value": 1500,
+    "Values": 10,
+    "Valussse": "8690558029145"
   },
   {
     "Title": "Medovik - 1조각",
-    "Value": "88012101"
+    "Value": 6000,
+    "Values": 10,
+    "Valussse": "88012101"
   },
   {
     "Title": "피라프 400g",
-    "Value": "8809706580104"
+    "Value": 5500,
+    "Values": 10,
+    "Valussse": "8809706580104"
   },
   {
     "Title": "니켈 알야 아즈와 대추야자 350g",
-    "Value": "6287009830010"
+    "Value": 8000,
+    "Values": 9,
+    "Valussse": "6287009830010"
   },
   {
     "Title": "에이비씨 아얌 바왕 60g",
-    "Value": "8992388121038"
+    "Value": 1500,
+    "Values": 8,
+    "Valussse": "8992388121038"
   },
   {
     "Title": "트러플초콜릿 1000g",
-    "Value": "8693029702424"
+    "Value": 7500,
+    "Values": 8,
+    "Valussse": "8693029702424"
   },
   {
     "Title": "메디나 딜라이츠 사가이 대추야자 500g",
-    "Value": "767461917239"
+    "Value": 8500,
+    "Values": 8,
+    "Valussse": "767461917239"
   },
   {
     "Title": "크레마리초콜릿크림비스킷 61g",
-    "Value": "8690120509792"
+    "Value": 500,
+    "Values": 8,
+    "Valussse": "8690120509792"
   },
   {
     "Title": "에이비씨 카리아얌 치킨커리향 60g",
-    "Value": "8992388121021"
+    "Value": 1500,
+    "Values": 7,
+    "Valussse": "8992388121021"
   },
   {
     "Title": "피아토스 바베큐향 감자칩 85g",
-    "Value": "4800016633799"
+    "Value": 1200,
+    "Values": 7,
+    "Valussse": "4800016633799"
   },
   {
     "Title": "엑스트라헤이즐넛크림 웨이퍼 50g",
-    "Value": "8695504168725"
+    "Value": 500,
+    "Values": 7,
+    "Valussse": "8695504168725"
   },
   {
     "Title": "웨이퍼 마스터 롤 카푸치노향크림 65g",
-    "Value": "8691066187051"
+    "Value": 1000,
+    "Values": 7,
+    "Valussse": "8691066187051"
   },
   {
     "Title": "딜라이트 버터향 쿠키 75g",
-    "Value": "8901972076555"
+    "Value": 500,
+    "Values": 7,
+    "Valussse": "8901972076555"
   },
   {
     "Title": "메디나 딜라이츠 쿠드리 대추야자 500g",
-    "Value": "767461917185"
+    "Value": 7500,
+    "Values": 7,
+    "Valussse": "767461917185"
   },
   {
     "Title": " 볶은 메밀 800g ",
-    "Value": "2900000000524"
+    "Value": 4500,
+    "Values": 6,
+    "Valussse": "2900000000524"
   },
   {
     "Title": "Snikers - 1조각",
-    "Value": "88012201"
+    "Value": 6000,
+    "Values": 6,
+    "Valussse": "88012201"
   },
   {
     "Title": " Salyami 1000g ",
-    "Value": "8809694500245"
+    "Value": 15700,
+    "Values": 6,
+    "Valussse": "8809694500245"
   },
   {
     "Title": "울루다 프루티 복숭아향 200ml",
-    "Value": "86933162"
+    "Value": 1000,
+    "Values": 6,
+    "Valussse": "86933162"
   },
   {
     "Title": "디메스 석류 넥타 농축석류주스 1L",
-    "Value": "8690558020036"
+    "Value": 3000,
+    "Values": 6,
+    "Valussse": "8690558020036"
   },
   {
     "Title": "피아토스 치즈향 감자칩 85g",
-    "Value": "4800016644504"
+    "Value": 1000,
+    "Values": 5,
+    "Valussse": "4800016644504"
   },
   {
     "Title": "디메스 파인애플 드링크 1L",
-    "Value": "8690558014776"
+    "Value": 3000,
+    "Values": 5,
+    "Valussse": "8690558014776"
   },
   {
     "Title": "미고렝페다스핫라면 80g",
-    "Value": "089686171679"
+    "Value": 600,
+    "Values": 5,
+    "Valussse": "089686171679"
   },
   {
     "Title": "디메스 복숭아 넥타 330ml",
-    "Value": "8690558020326"
+    "Value": 1500,
+    "Values": 5,
+    "Valussse": "8690558020326"
   },
   {
     "Title": "니신와퍼 땅콩맛 100g",
-    "Value": "8888166336612"
+    "Value": 1000,
+    "Values": 5,
+    "Valussse": "8888166336612"
   },
   {
     "Title": "비파2000 맥시 500g",
-    "Value": "8690562002189"
+    "Value": 3000,
+    "Values": 5,
+    "Valussse": "8690562002189"
   },
   {
     "Title": "에이비씨 바소 사삐 60g",
-    "Value": "8992388121090"
+    "Value": 1500,
+    "Values": 5,
+    "Valussse": "8992388121090"
   },
   {
     "Title": "Halal Moskovsky Beef Sausage 600g",
-    "Value": "8809694500061"
+    "Value": 9500,
+    "Values": 5,
+    "Valussse": "8809694500061"
   },
   {
     "Title": "울루다 프루티 수박&딸기 200ml",
-    "Value": "86933193"
+    "Value": 1000,
+    "Values": 5,
+    "Valussse": "86933193"
   },
   {
     "Title": "크레마리헤이즐넛크림비스킷 61g",
-    "Value": "8690120508528"
+    "Value": 500,
+    "Values": 5,
+    "Valussse": "8690120508528"
   },
   {
     "Title": "맥오티건포도초코칩오트쿠키 80g",
-    "Value": "9555701502878"
+    "Value": 1000,
+    "Values": 5,
+    "Valussse": "9555701502878"
   },
   {
     "Title": "폴샌드위치비스킷(코코아크림) 160g",
-    "Value": "8690562007627"
+    "Value": 1000,
+    "Values": 5,
+    "Valussse": "8690562007627"
   },
   {
     "Title": "니신와퍼 초콜릿맛 110g",
-    "Value": "8888166336605"
+    "Value": 1000,
+    "Values": 5,
+    "Valussse": "8888166336605"
   },
   {
     "Title": " 나켈알야 아츠와",
-    "Value": "6287009830027"
+    "Value": 14500,
+    "Values": 5,
+    "Valussse": "6287009830027"
   },
   {
     "Title": "울루다 프루티 레몬향 200ml",
-    "Value": "86933148"
+    "Value": 1000,
+    "Values": 5,
+    "Valussse": "86933148"
   },
   {
     "Title": " 설도",
-    "Value": "2007050060006"
+    "Value": 6000,
+    "Values": 5,
+    "Valussse": "2007050060006"
   },
   {
     "Title": " Lamb Lace Fat",
-    "Value": "2008480035008"
+    "Value": 3500,
+    "Values": 5,
+    "Valussse": "2008480035008"
   },
   {
     "Title": " 대추야자 1000g ",
-    "Value": "6291108106891"
+    "Value": 7000,
+    "Values": 5,
+    "Valussse": "6291108106891"
   },
   {
     "Title": "에이비씨 소토아얌 치킨소토향 60g",
-    "Value": "8992388121045"
+    "Value": 1500,
+    "Values": 4,
+    "Valussse": "8992388121045"
   },
   {
     "Title": "데나 석류사과체리넥타르 1L",
-    "Value": "4780016371030"
+    "Value": 3000,
+    "Values": 4,
+    "Valussse": "4780016371030"
   },
   {
     "Title": "미고랭라면 80g",
-    "Value": "089686170733"
+    "Value": 600,
+    "Values": 4,
+    "Valussse": "089686170733"
   },
   {
     "Title": "딜라이트 캐슈 쿠키 75g",
-    "Value": "8901972076562"
+    "Value": 500,
+    "Values": 4,
+    "Valussse": "8901972076562"
   },
   {
     "Title": "마리오 캐슈넛 비스킷 90g",
-    "Value": "8904300200486"
+    "Value": 500,
+    "Values": 4,
+    "Valussse": "8904300200486"
   },
   {
     "Title": "비파패티볼비스킷 800g",
-    "Value": "8690562004121"
+    "Value": 4500,
+    "Values": 4,
+    "Valussse": "8690562004121"
   },
   {
     "Title": "울루다 프루티 딸기 향 200ml",
-    "Value": "86933056"
+    "Value": 1000,
+    "Values": 4,
+    "Valussse": "86933056"
   },
   {
     "Title": "스파게티 500g",
-    "Value": "8809706580081"
+    "Value": 5500,
+    "Values": 4,
+    "Valussse": "8809706580081"
   },
   {
     "Title": "Lulu & Fard 대추야자 1000g",
-    "Value": "6297000361307"
+    "Value": 8000,
+    "Values": 4,
+    "Valussse": "6297000361307"
   },
   {
     "Title": " 양어깨사각",
-    "Value": "2008030050000"
+    "Value": 5000,
+    "Values": 4,
+    "Valussse": "2008030050000"
   },
   {
     "Title": "Khalas 대추야자 1000g",
-    "Value": "6291100212866"
+    "Value": 7000,
+    "Values": 4,
+    "Valussse": "6291100212866"
   },
   {
     "Title": " 양어깨갈비",
-    "Value": "2008040060006"
+    "Value": 6000,
+    "Values": 4,
+    "Valussse": "2008040060006"
   },
   {
     "Title": " 사골",
-    "Value": "2007530030000"
+    "Value": 3000,
+    "Values": 4,
+    "Valussse": "2007530030000"
   },
   {
     "Title": " Chicken Drumsticks 2500g ",
-    "Value": "5760725238052"
+    "Value": 16000,
+    "Values": 4,
+    "Valussse": "5760725238052"
   },
   {
     "Title": "하리카 40g",
-    "Value": "8690562011228"
+    "Value": 1000,
+    "Values": 4,
+    "Valussse": "8690562011228"
   },
   {
     "Title": "Gata - 1봉지",
-    "Value": "88013101"
+    "Value": 5000,
+    "Values": 4,
+    "Valussse": "88013101"
   },
   {
     "Title": " 건조 무화가 잼 380g ",
-    "Value": "8691573095917"
+    "Value": 4500,
+    "Values": 4,
+    "Valussse": "8691573095917"
   },
   {
     "Title": "대추야자 1000g",
-    "Value": "6291108106884"
+    "Value": 7000,
+    "Values": 4,
+    "Valussse": "6291108106884"
   },
   {
     "Title": " Beef Burger Patty",
-    "Value": "2007910090006"
+    "Value": 9000,
+    "Values": 4,
+    "Valussse": "2007910090006"
   },
   {
     "Title": "Non Large",
-    "Value": "88014102"
+    "Value": 4000,
+    "Values": 3,
+    "Valussse": "88014102"
   },
   {
     "Title": "비파핑거비스킷 780g",
-    "Value": "8690562003162"
+    "Value": 4000,
+    "Values": 3,
+    "Valussse": "8690562003162"
   },
   {
     "Title": "치킨커리향라면 80g",
-    "Value": "089686170191"
+    "Value": 600,
+    "Values": 3,
+    "Valussse": "089686170191"
   },
   {
     "Title": "소토미향라면 75g",
-    "Value": "089686170344"
+    "Value": 600,
+    "Values": 3,
+    "Valussse": "089686170344"
   },
   {
     "Title": "울루다 프루티 엑스트라 열매 250ml",
-    "Value": "8690723691894"
+    "Value": 1500,
+    "Values": 3,
+    "Valussse": "8690723691894"
   },
   {
     "Title": "대추야자 1000g",
-    "Value": "6291100213108"
+    "Value": 7000,
+    "Values": 3,
+    "Valussse": "6291100213108"
   },
   {
     "Title": "트러플초콜릿(헤이즐넛맛) 92g",
-    "Value": "8693029020108"
+    "Value": 1000,
+    "Values": 3,
+    "Valussse": "8693029020108"
   },
   {
     "Title": "맥오티초콜릿칩오트쿠키 80g",
-    "Value": "9555701508498"
+    "Value": 1000,
+    "Values": 3,
+    "Valussse": "9555701508498"
   },
   {
     "Title": "울루다 프루티 엑스트라 귤 250ml",
-    "Value": "8690723611892"
+    "Value": 1500,
+    "Values": 3,
+    "Valussse": "8690723611892"
   },
   {
     "Title": "울루다 프루티 그린애플향 200ml",
-    "Value": "86933179"
+    "Value": 1000,
+    "Values": 3,
+    "Valussse": "86933179"
   },
   {
     "Title": "데나 모과사과넥타르 1L",
-    "Value": "4780016370644"
+    "Value": 3000,
+    "Values": 3,
+    "Valussse": "4780016370644"
   },
   {
     "Title": "엑스엑스엘 초콜릿 웨이퍼 50g",
-    "Value": "8691720004977"
+    "Value": 1000,
+    "Values": 3,
+    "Valussse": "8691720004977"
   },
   {
     "Title": " 아실퓨어기히 400ml ",
-    "Value": "6291113102444"
+    "Value": 10500,
+    "Values": 3,
+    "Valussse": "6291113102444"
   },
   {
     "Title": "챔프다크초콜릿쿠키 120g",
-    "Value": "8681042331301"
+    "Value": 2000,
+    "Values": 3,
+    "Valussse": "8681042331301"
   },
   {
     "Title": " 양뼈사테",
-    "Value": "2008070060007"
+    "Value": 6000,
+    "Values": 3,
+    "Valussse": "2008070060007"
   },
   {
     "Title": "쇠고기 스튜 400g",
-    "Value": "8809706580005"
+    "Value": 6500,
+    "Values": 3,
+    "Valussse": "8809706580005"
   },
   {
     "Title": "터키쉬 라브네 400g",
-    "Value": "8690347200816"
+    "Value": 8500,
+    "Values": 3,
+    "Valussse": "8690347200816"
   },
   {
     "Title": "하리카미니스 500g",
-    "Value": "8690562011334"
+    "Value": 5000,
+    "Values": 3,
+    "Valussse": "8690562011334"
   },
   {
     "Title": "울루다 프루티 엑스트라 멜론 250ml",
-    "Value": "8690723681895"
+    "Value": 1500,
+    "Values": 3,
+    "Valussse": "8690723681895"
   },
   {
     "Title": "데나 복숭아넥타르 1L",
-    "Value": "4780016370095"
+    "Value": 3000,
+    "Values": 3,
+    "Valussse": "4780016370095"
   },
   {
     "Title": "게리 코코넛 크래커 100g",
-    "Value": "8992775305102"
+    "Value": 1200,
+    "Values": 2,
+    "Valussse": "8992775305102"
   },
   {
     "Title": " 아덴 마르카나 엘보우 500g ",
-    "Value": "8683020400054"
+    "Value": 2000,
+    "Values": 2,
+    "Valussse": "8683020400054"
   },
   {
     "Title": "토쿠페티볼비스킷 700g",
-    "Value": "8690120060286"
+    "Value": 4000,
+    "Values": 2,
+    "Valussse": "8690120060286"
   },
   {
     "Title": "트러플초콜릿(카라멜향) 92g",
-    "Value": "8693029020115"
+    "Value": 1000,
+    "Values": 2,
+    "Valussse": "8693029020115"
   },
   {
     "Title": "트러플초콜릿(피스타치오향) 92g",
-    "Value": "8693029206274"
+    "Value": 1000,
+    "Values": 2,
+    "Valussse": "8693029206274"
   },
   {
     "Title": "닭고기 스튜 400g",
-    "Value": "8809706580029"
+    "Value": 5000,
+    "Values": 2,
+    "Valussse": "8809706580029"
   },
   {
     "Title": "패래스 530g",
-    "Value": "8809706580128"
+    "Value": 5000,
+    "Values": 2,
+    "Valussse": "8809706580128"
   },
   {
     "Title": " 양민찌",
-    "Value": "2008130140007"
+    "Value": 14000,
+    "Values": 2,
+    "Valussse": "2008130140007"
   },
   {
     "Title": "몬테고 초코칩 쿠키 85g",
-    "Value": "8998389121572"
+    "Value": 1000,
+    "Values": 2,
+    "Valussse": "8998389121572"
   },
   {
     "Title": "Salyami 500g",
-    "Value": "8809694500276"
+    "Value": 9500,
+    "Values": 2,
+    "Valussse": "8809694500276"
   },
   {
     "Title": "웨이퍼 마스터 롤 바닐라크림 65g",
-    "Value": "8691066189055"
+    "Value": 1200,
+    "Values": 2,
+    "Valussse": "8691066189055"
   },
   {
     "Title": "피아토스 샤워크림향 & 양파맛 감자칩 85g",
-    "Value": "4800016671500"
+    "Value": 1200,
+    "Values": 2,
+    "Valussse": "4800016671500"
   },
   {
     "Title": "데나 딸기혼하넥타르 1L",
-    "Value": "4780016370835"
+    "Value": 3000,
+    "Values": 2,
+    "Valussse": "4780016370835"
   },
   {
     "Title": "데나 살구혼합넥타르 1L",
-    "Value": "4780016370071"
+    "Value": 3000,
+    "Values": 2,
+    "Valussse": "4780016370071"
   },
   {
     "Title": "해바라기유 2L",
-    "Value": "8690619012000"
+    "Value": 7500,
+    "Values": 2,
+    "Valussse": "8690619012000"
   },
   {
     "Title": " 수카리 대추야자",
-    "Value": "7674619173580"
+    "Value": 9000,
+    "Values": 2,
+    "Valussse": "7674619173580"
   },
   {
     "Title": " 슈퍼 할바 450g ",
-    "Value": "6253001010453"
+    "Value": 8000,
+    "Values": 2,
+    "Valussse": "6253001010453"
   },
   {
     "Title": "니신와퍼 밀크맛 100g",
-    "Value": "8888166989474"
+    "Value": 1000,
+    "Values": 2,
+    "Valussse": "8888166989474"
   },
   {
     "Title": "코피코 카푸치노맛 175g",
-    "Value": "8996001330739"
+    "Value": 2000,
+    "Values": 2,
+    "Valussse": "8996001330739"
   },
   {
     "Title": "엑스원 케러맬 타르트 240g",
-    "Value": "8690997122605"
+    "Value": 2000,
+    "Values": 2,
+    "Valussse": "8690997122605"
   },
   {
     "Title": "웨이퍼 마스터 롤 헤이즐넛크림 65g",
-    "Value": "8691066180052"
+    "Value": 1200,
+    "Values": 2,
+    "Valussse": "8691066180052"
   },
   {
     "Title": "데나 애플체리넥타르 1L",
-    "Value": "4780016370309"
+    "Value": 3000,
+    "Values": 2,
+    "Valussse": "4780016370309"
   },
   {
     "Title": " 소간",
-    "Value": "2007680050002"
+    "Value": 5000,
+    "Values": 2,
+    "Valussse": "2007680050002"
   },
   {
     "Title": "폰단테퍼지어솔트먼트 1000g",
-    "Value": "8695504168848"
+    "Value": 9500,
+    "Values": 2,
+    "Valussse": "8695504168848"
   },
   {
     "Title": " 스트레이트 컷 2000g ",
-    "Value": "056210810403"
+    "Value": 10000,
+    "Values": 2,
+    "Valussse": "056210810403"
   },
   {
     "Title": " Beef Neck",
-    "Value": "2007880045006"
+    "Value": 4500,
+    "Values": 2,
+    "Valussse": "2007880045006"
   },
   {
     "Title": " 포테이토 페티 1200g ",
-    "Value": "056210601629"
+    "Value": 8000,
+    "Values": 2,
+    "Valussse": "056210601629"
   },
   {
     "Title": "트러피나 헤이즐&넛크림 450g",
-    "Value": "8682354110653"
+    "Value": 7500,
+    "Values": 2,
+    "Valussse": "8682354110653"
   },
   {
     "Title": "Halal Chicken Frank Sausage 500g",
-    "Value": "8809694500078"
+    "Value": 6500,
+    "Values": 2,
+    "Valussse": "8809694500078"
   },
   {
     "Title": " Sari Dates 800g ",
-    "Value": "6297000361408"
+    "Value": 9500,
+    "Values": 2,
+    "Valussse": "6297000361408"
   },
   {
     "Title": " Chicken Burger Patty",
-    "Value": "2009910080001"
+    "Value": 8000,
+    "Values": 2,
+    "Valussse": "2009910080001"
   },
   {
     "Title": "엑스엑스엘 화이트 초콜릿 웨이퍼 50g",
-    "Value": "8691720004960"
+    "Value": 1000,
+    "Values": 2,
+    "Valussse": "8691720004960"
   },
   {
     "Title": "Halal Servelat Sausage 500g",
-    "Value": "8809694500009"
+    "Value": 9500,
+    "Values": 2,
+    "Valussse": "8809694500009"
   },
   {
     "Title": "루비마아 비스킷 347g",
-    "Value": "4607144735018"
+    "Value": 3000,
+    "Values": 2,
+    "Valussse": "4607144735018"
   },
   {
     "Title": "디메스 애플드링크 1L",
-    "Value": "8690558023921"
+    "Value": 3000,
+    "Values": 2,
+    "Valussse": "8690558023921"
   },
   {
     "Title": "디메스 프루츠믹스 넥타 330ml",
-    "Value": "8690558020357"
+    "Value": 1500,
+    "Values": 1,
+    "Valussse": "8690558020357"
   },
   {
     "Title": "슈가밀키크레커 108g",
-    "Value": "8998389134442"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8998389134442"
   },
   {
     "Title": "포커스 비스킷 128g",
-    "Value": "8695504169463"
+    "Value": 1500,
+    "Values": 1,
+    "Valussse": "8695504169463"
   },
   {
     "Title": "동부콩 800g",
-    "Value": "8809789250079"
+    "Value": 3500,
+    "Values": 1,
+    "Valussse": "8809789250079"
   },
   {
     "Title": "맥심크라운 275g",
-    "Value": "8693029033825"
+    "Value": 3500,
+    "Values": 1,
+    "Valussse": "8693029033825"
   },
   {
     "Title": "에스케이프믹스크래커 150g",
-    "Value": "8690562007795"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8690562007795"
   },
   {
     "Title": "먀트나야 250g",
-    "Value": "4607117891581"
+    "Value": 3000,
+    "Values": 1,
+    "Valussse": "4607117891581"
   },
   {
     "Title": " Elitnaya 800g ",
-    "Value": "8809694500269"
+    "Value": 14500,
+    "Values": 1,
+    "Valussse": "8809694500269"
   },
   {
     "Title": "오레지치즈초코크레커 100g",
-    "Value": "8998389132073"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8998389132073"
   },
   {
     "Title": "해바라기 씨 소금맛 250g",
-    "Value": "4630007400679"
+    "Value": 4000,
+    "Values": 1,
+    "Valussse": "4630007400679"
   },
   {
     "Title": "오이절임 640g",
-    "Value": "8690804361579"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "8690804361579"
   },
   {
     "Title": " Super Salyami 500g ",
-    "Value": "8809694500283"
+    "Value": 9500,
+    "Values": 1,
+    "Valussse": "8809694500283"
   },
   {
     "Title": "Halal Krakov Sausage 500g",
-    "Value": "8809694500054"
+    "Value": 9500,
+    "Values": 1,
+    "Valussse": "8809694500054"
   },
   {
     "Title": " 병아리콩 800G ",
-    "Value": "2900000000520"
+    "Value": 3000,
+    "Values": 1,
+    "Valussse": "2900000000520"
   },
   {
     "Title": " 양목뼈",
-    "Value": "2008350040002"
+    "Value": 4000,
+    "Values": 1,
+    "Valussse": "2008350040002"
   },
   {
     "Title": "믹스플레이버 터키쉬딜라이트 250g",
-    "Value": "8690710137428"
+    "Value": 8500,
+    "Values": 1,
+    "Valussse": "8690710137428"
   },
   {
     "Title": " 냉동 껍질없는 닭다리 정육 2000g ",
-    "Value": "7894904240319"
+    "Value": 12000,
+    "Values": 1,
+    "Valussse": "7894904240319"
   },
   {
     "Title": "로얄브리티시버터쿠키 80g",
-    "Value": "9555701502861"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "9555701502861"
   },
   {
     "Title": "폰단테퍼지초콜릿크림 500g",
-    "Value": "8695504166356"
+    "Value": 5000,
+    "Values": 1,
+    "Valussse": "8695504166356"
   },
   {
     "Title": " Bombay Biryani Masala 120 Gms ",
-    "Value": "633152014870"
+    "Value": 3500,
+    "Values": 1,
+    "Valussse": "633152014870"
   },
   {
     "Title": "레드 홀 렌틸 800g",
-    "Value": "8809789250062"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "8809789250062"
   },
   {
     "Title": "오레지초코파티크레커 100g",
-    "Value": "8998389132066"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8998389132066"
   },
   {
     "Title": " 양콩팥",
-    "Value": "2008940060007"
+    "Value": 6000,
+    "Values": 1,
+    "Valussse": "2008940060007"
   },
   {
     "Title": " Sheep Feet",
-    "Value": "2008140045002"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "2008140045002"
   },
   {
     "Title": "해바라기유 5L",
-    "Value": "8690619031131"
+    "Value": 17000,
+    "Values": 1,
+    "Valussse": "8690619031131"
   },
   {
     "Title": "리몬나야 250g",
-    "Value": "4607117890867"
+    "Value": 3000,
+    "Values": 1,
+    "Valussse": "4607117890867"
   },
   {
     "Title": "디메스 사우어체리 넥타 1L",
-    "Value": "8690558027554"
+    "Value": 3000,
+    "Values": 1,
+    "Valussse": "8690558027554"
   },
   {
     "Title": " 소갈비",
-    "Value": "2007120060004"
+    "Value": 6000,
+    "Values": 1,
+    "Valussse": "2007120060004"
   },
   {
     "Title": "피스타치오 터키쉬딜라이트 125g",
-    "Value": "8690710138654"
+    "Value": 5000,
+    "Values": 1,
+    "Valussse": "8690710138654"
   },
   {
     "Title": "니신와퍼 딸기맛 100g",
-    "Value": "8888166337305"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8888166337305"
   },
   {
     "Title": "니켈 알야 대추야자 시럽 500g",
-    "Value": "6287009831901"
+    "Value": 8000,
+    "Values": 1,
+    "Valussse": "6287009831901"
   },
   {
     "Title": " 냉동 닭 다리정육 2000g ",
-    "Value": "7894904240418"
+    "Value": 11000,
+    "Values": 1,
+    "Valussse": "7894904240418"
   },
   {
     "Title": " 소민찌",
-    "Value": "2007390140000"
+    "Value": 14000,
+    "Values": 1,
+    "Valussse": "2007390140000"
   },
   {
     "Title": "혼합야채피클 1610g",
-    "Value": "8690804152610"
+    "Value": 8000,
+    "Values": 1,
+    "Valussse": "8690804152610"
   },
   {
     "Title": "해바라기유 1L",
-    "Value": "8690619011003"
+    "Value": 4000,
+    "Values": 1,
+    "Valussse": "8690619011003"
   },
   {
     "Title": "디메스 복숭아 넥타 1L",
-    "Value": "8690558010020"
+    "Value": 3000,
+    "Values": 1,
+    "Valussse": "8690558010020"
   },
   {
     "Title": "Halal Sausage Cheese 500g",
-    "Value": "8809694500221"
+    "Value": 8000,
+    "Values": 1,
+    "Valussse": "8809694500221"
   },
   {
     "Title": "토르쿠 바나다 헤이즐넛크림 위드 코코아 1000g",
-    "Value": "8690120066653"
+    "Value": 9000,
+    "Values": 1,
+    "Valussse": "8690120066653"
   },
   {
     "Title": "이집트콩 800g",
-    "Value": "8809789250031"
+    "Value": 3500,
+    "Values": 1,
+    "Valussse": "8809789250031"
   },
   {
     "Title": "병아리콩 800g",
-    "Value": "8809789250024"
+    "Value": 3000,
+    "Values": 1,
+    "Valussse": "8809789250024"
   },
   {
     "Title": "날야 대추야자 화이트 초콜릿 아몬드 480g",
-    "Value": "6287009833158"
+    "Value": 15000,
+    "Values": 1,
+    "Valussse": "6287009833158"
   },
   {
     "Title": "스타퍼드 페퍼 400g",
-    "Value": "8691573022197"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "8691573022197"
   },
   {
     "Title": "초콜릿할바 350g",
-    "Value": "6253001010903"
+    "Value": 8000,
+    "Values": 1,
+    "Valussse": "6253001010903"
   },
   {
     "Title": "트러피나 아몬드&코코넛 450g",
-    "Value": "8690351110606"
+    "Value": 7500,
+    "Values": 1,
+    "Valussse": "8690351110606"
   },
   {
     "Title": "슈퍼유니버셜시즈닝파우더 170g",
-    "Value": "4780021591997"
+    "Value": 2500,
+    "Values": 1,
+    "Valussse": "4780021591997"
   },
   {
     "Title": " 제난 차키 프레시 아따 5000g ",
-    "Value": "6290400000296"
+    "Value": 9500,
+    "Values": 1,
+    "Valussse": "6290400000296"
   },
   {
     "Title": " 아실퓨어기히 800ml ",
-    "Value": "6291113102468"
+    "Value": 17000,
+    "Values": 1,
+    "Valussse": "6291113102468"
   },
   {
     "Title": "맥심크라운 66g",
-    "Value": "8693029033801"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8693029033801"
   },
   {
     "Title": "토자 얼그린 36g",
-    "Value": "4780043532831"
+    "Value": 7000,
+    "Values": 1,
+    "Valussse": "4780043532831"
   },
   {
     "Title": "pecheniy 6ea",
-    "Value": "043000449408"
+    "Value": 9000,
+    "Values": 1,
+    "Valussse": "043000449408"
   },
   {
     "Title": " 플레이버 크리스피",
-    "Value": "056210107527"
+    "Value": 12000,
+    "Values": 1,
+    "Valussse": "056210107527"
   },
   {
     "Title": " 버팔로 치킨봉 1000g ",
-    "Value": "8809353491266"
+    "Value": 14000,
+    "Values": 1,
+    "Valussse": "8809353491266"
   },
   {
     "Title": "모짜렐라 치즈 200g",
-    "Value": "8690347082191"
+    "Value": 5000,
+    "Values": 1,
+    "Valussse": "8690347082191"
   },
   {
     "Title": "토르쿠 바나다 헤이즐넛크림 위드 코코아 400g",
-    "Value": "8690120054384"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "8690120054384"
   },
   {
     "Title": " 해바라기씨 260g ",
-    "Value": "8859559600078"
+    "Value": 3000,
+    "Values": 1,
+    "Valussse": "8859559600078"
   },
   {
     "Title": "대추야자 1000g",
-    "Value": "6291109300502"
+    "Value": 7000,
+    "Values": 1,
+    "Valussse": "6291109300502"
   },
   {
     "Title": "토자 그린티 녹차 95 80g",
-    "Value": "4780043530035"
+    "Value": 3500,
+    "Values": 1,
+    "Valussse": "4780043530035"
   },
   {
     "Title": " Cumin Seeds Whole 200g ",
-    "Value": "8809109368934"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "8809109368934"
   },
   {
     "Title": "대추야자 1000g",
-    "Value": "6291100213504"
+    "Value": 7000,
+    "Values": 1,
+    "Valussse": "6291100213504"
   },
   {
     "Title": "챔프 코촐릿 쿠키 오리지널 120g",
-    "Value": "8681042331202"
+    "Value": 2000,
+    "Values": 1,
+    "Valussse": "8681042331202"
   },
   {
     "Title": "울루다 탄산수 200ml",
-    "Value": "8690723511208"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8690723511208"
   },
   {
     "Title": "HalalSmoked Turkey Sausage 600g",
-    "Value": "8809694500023"
+    "Value": 8000,
+    "Values": 1,
+    "Valussse": "8809694500023"
   },
   {
     "Title": "소 mol son laqm",
-    "Value": "8998150001"
+    "Value": 15000,
+    "Values": 1,
+    "Valussse": "8998150001"
   },
   {
     "Title": " 양간",
-    "Value": "2008430040007"
+    "Value": 4000,
+    "Values": 1,
+    "Valussse": "2008430040007"
   },
   {
     "Title": " 오이절임 1650g ",
-    "Value": "8690804152504"
+    "Value": 8500,
+    "Values": 1,
+    "Valussse": "8690804152504"
   },
   {
     "Title": "트러플초콜릿(티라미수향) 92g",
-    "Value": "8693029020139"
+    "Value": 1000,
+    "Values": 1,
+    "Valussse": "8693029020139"
   },
   {
     "Title": "살구잼 380g",
-    "Value": "8691573095573"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "8691573095573"
   },
   {
     "Title": "딤라마 530g",
-    "Value": "8809706580135"
+    "Value": 6500,
+    "Values": 1,
+    "Valussse": "8809706580135"
   },
   {
     "Title": "테스 포레스트 드림 36g",
-    "Value": "4605246007842"
+    "Value": 4000,
+    "Values": 1,
+    "Valussse": "4605246007842"
   },
   {
     "Title": "홀그린올리브 350g",
-    "Value": "8680838466258"
+    "Value": 3500,
+    "Values": 1,
+    "Valussse": "8680838466258"
   },
   {
     "Title": "머른마살라 100g",
-    "Value": "8809789250215"
+    "Value": 3500,
+    "Values": 1,
+    "Valussse": "8809789250215"
   },
   {
     "Title": "샨 커리 파우더 200g",
-    "Value": "788821073099"
+    "Value": 4500,
+    "Values": 1,
+    "Valussse": "788821073099"
   }
 ]
