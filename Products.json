@@ -176,7 +176,7 @@
   {
     "ProdGroupName_ko": "닉스 XXL 50g",
     "SalePrice": 500,
-    "ProdGroupProdCount": 650,
+    "ProdGroupProdCount": 649,
     "BarCodeBarCode": "8690562011907"
   },
   {
@@ -194,7 +194,7 @@
   {
     "ProdGroupName_ko": "하리카 40g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 426,
+    "ProdGroupProdCount": 424,
     "BarCodeBarCode": "8690562011228"
   },
   {
@@ -266,7 +266,7 @@
   {
     "ProdGroupName_ko": "피아토스 샤워크림향 & 양파맛 감자칩 85g",
     "SalePrice": 1200,
-    "ProdGroupProdCount": 46,
+    "ProdGroupProdCount": 45,
     "BarCodeBarCode": "4800016671500"
   },
   {
@@ -278,7 +278,7 @@
   {
     "ProdGroupName_ko": "데나 딸기혼하넥타르 1L",
     "SalePrice": 3000,
-    "ProdGroupProdCount": 32,
+    "ProdGroupProdCount": 31,
     "BarCodeBarCode": "4780016370835"
   },
   {
@@ -302,7 +302,7 @@
   {
     "ProdGroupName_ko": "데나 모과사과넥타르 1L",
     "SalePrice": 3000,
-    "ProdGroupProdCount": 18,
+    "ProdGroupProdCount": 17,
     "BarCodeBarCode": "4780016370644"
   },
   {
@@ -344,7 +344,7 @@
   {
     "ProdGroupName_ko": "틴토밀크 1L",
     "SalePrice": 2000,
-    "ProdGroupProdCount": 26,
+    "ProdGroupProdCount": 25,
     "BarCodeBarCode": "5900120011472"
   },
   {
@@ -530,7 +530,7 @@
   {
     "ProdGroupName_ko": "브록크본드 타즈마할 225g",
     "SalePrice": 4500,
-    "ProdGroupProdCount": 32,
+    "ProdGroupProdCount": 31,
     "BarCodeBarCode": "8901030083051"
   },
   {
@@ -584,7 +584,7 @@
   {
     "ProdGroupName_ko": "메디나 딜라이츠 사가이 대추야자 500g",
     "SalePrice": 8500,
-    "ProdGroupProdCount": 14,
+    "ProdGroupProdCount": 13,
     "BarCodeBarCode": "767461917239"
   },
   {
@@ -662,7 +662,7 @@
   {
     "ProdGroupName_ko": "에이비씨 카리아얌 치킨커리향 60g",
     "SalePrice": 1500,
-    "ProdGroupProdCount": 13,
+    "ProdGroupProdCount": 9,
     "BarCodeBarCode": "8992388121021"
   },
   {
@@ -1070,7 +1070,7 @@
   {
     "ProdGroupName_ko": "소두구 40g",
     "SalePrice": 4000,
-    "ProdGroupProdCount": 1,
+    "ProdGroupProdCount": 0,
     "BarCodeBarCode": "8809790210598"
   },
   {
@@ -1376,7 +1376,7 @@
   {
     "ProdGroupName_ko": "Halal Lyubitelskiy Beef Sausage 600g",
     "SalePrice": 9000,
-    "ProdGroupProdCount": 15,
+    "ProdGroupProdCount": 14,
     "BarCodeBarCode": "8809694500047"
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "ProdGroupName_ko": "Halal Servelat Sausage 500g",
     "SalePrice": 9500,
-    "ProdGroupProdCount": 21,
+    "ProdGroupProdCount": 20,
     "BarCodeBarCode": "8809694500009"
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "ProdGroupName_ko": "Medovik - 1조각",
     "SalePrice": 6000,
-    "ProdGroupProdCount": -26,
+    "ProdGroupProdCount": -27,
     "BarCodeBarCode": "88012101"
   },
   {
@@ -1598,7 +1598,7 @@
   {
     "ProdGroupName_ko": "Gata - 1봉지",
     "SalePrice": 5000,
-    "ProdGroupProdCount": -6,
+    "ProdGroupProdCount": -7,
     "BarCodeBarCode": "88013101"
   },
   {
@@ -1736,7 +1736,7 @@
   {
     "ProdGroupName_ko": " 나켈알야 아츠와",
     "SalePrice": 14500,
-    "ProdGroupProdCount": 15,
+    "ProdGroupProdCount": 14,
     "BarCodeBarCode": "6287009830027"
   },
   {
@@ -1958,7 +1958,7 @@
   {
     "ProdGroupName_ko": " 해바라기씨 260g ",
     "SalePrice": 3000,
-    "ProdGroupProdCount": 37,
+    "ProdGroupProdCount": 36,
     "BarCodeBarCode": "8859559600078"
   },
   {
@@ -2030,7 +2030,7 @@
   {
     "ProdGroupName_ko": " 냉동계육가슴 2000g ",
     "SalePrice": 12000,
-    "ProdGroupProdCount": 6,
+    "ProdGroupProdCount": 5,
     "BarCodeBarCode": "7894904079643"
   },
   {
@@ -2078,13 +2078,13 @@
   {
     "ProdGroupName_ko": " Elitnaya 800g ",
     "SalePrice": 14500,
-    "ProdGroupProdCount": 17,
+    "ProdGroupProdCount": 16,
     "BarCodeBarCode": "8809694500269"
   },
   {
     "ProdGroupName_ko": " Salyami 1000g ",
     "SalePrice": 15700,
-    "ProdGroupProdCount": -2,
+    "ProdGroupProdCount": -3,
     "BarCodeBarCode": "8809694500245"
   },
   {
