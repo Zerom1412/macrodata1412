@@ -2126,5 +2126,21 @@
     "BuycompanyName": "비씨카드",
     "Msg1": "거래 승인",
     "YMDHMS": "20240320024940"
+  },
+  {
+    "InsDate": "2024-03-20 14:13:18.934",
+    "PayAmount": 2200,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240320141318"
+  },
+  {
+    "InsDate": "2024-03-20 14:14:05.653",
+    "PayAmount": 12000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240320141405"
   }
 ]
