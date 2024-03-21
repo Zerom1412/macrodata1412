@@ -37,8 +37,8 @@
   {
     "Name": "디메스 석류 넥타 330ml",
     "Price": 1500,
-    "Count": 14,
-    "CountOrder": 45,
+    "Count": 15,
+    "CountOrder": 44,
     "Barcode": "8690558029145"
   },
   {
@@ -47,6 +47,13 @@
     "Count": 14,
     "CountOrder": 77,
     "Barcode": "8904300200349"
+  },
+  {
+    "Name": "디메스 사우어체리 넥타 330ml",
+    "Price": 1500,
+    "Count": 13,
+    "CountOrder": 10,
+    "Barcode": "8690558020319"
   },
   {
     "Name": "크레마리플레인크림비스킷 61g",
@@ -61,13 +68,6 @@
     "Count": 13,
     "CountOrder": 14,
     "Barcode": "8809694500245"
-  },
-  {
-    "Name": "디메스 사우어체리 넥타 330ml",
-    "Price": 1500,
-    "Count": 12,
-    "CountOrder": 11,
-    "Barcode": "8690558020319"
   },
   {
     "Name": "엑스트라헤이즐넛크림 웨이퍼 50g",
@@ -119,6 +119,13 @@
     "Barcode": "8992388121021"
   },
   {
+    "Name": "Halal Moskovsky Beef Sausage 600g",
+    "Price": 9500,
+    "Count": 10,
+    "CountOrder": 20,
+    "Barcode": "8809694500061"
+  },
+  {
     "Name": "Khalas 대추야자 1000g",
     "Price": 7000,
     "Count": 10,
@@ -166,13 +173,6 @@
     "Count": 9,
     "CountOrder": 24,
     "Barcode": "4780016371030"
-  },
-  {
-    "Name": "Halal Moskovsky Beef Sausage 600g",
-    "Price": 9500,
-    "Count": 9,
-    "CountOrder": 21,
-    "Barcode": "8809694500061"
   },
   {
     "Name": "웨이퍼 마스터 롤 카푸치노향크림 65g",
@@ -259,6 +259,13 @@
     "Barcode": "8992388121090"
   },
   {
+    "Name": "스파게티 500g",
+    "Price": 5500,
+    "Count": 7,
+    "CountOrder": 15,
+    "Barcode": "8809706580081"
+  },
+  {
     "Name": " 양어깨갈비",
     "Price": 6000,
     "Count": 7,
@@ -313,13 +320,6 @@
     "Count": 6,
     "CountOrder": 18,
     "Barcode": "8690562002189"
-  },
-  {
-    "Name": "스파게티 500g",
-    "Price": 5500,
-    "Count": 6,
-    "CountOrder": 17,
-    "Barcode": "8809706580081"
   },
   {
     "Name": "맥오티건포도초코칩오트쿠키 80g",
@@ -385,6 +385,13 @@
     "Barcode": "2007050060006"
   },
   {
+    "Name": " Lamb Lace Fat",
+    "Price": 3500,
+    "Count": 6,
+    "CountOrder": 12,
+    "Barcode": "2008480035008"
+  },
+  {
     "Name": "엑스엑스엘 화이트 초콜릿 웨이퍼 50g",
     "Price": 1000,
     "Count": 6,
@@ -418,6 +425,13 @@
     "Count": 5,
     "CountOrder": 14,
     "Barcode": "6297000361307"
+  },
+  {
+    "Name": " 양어깨사각",
+    "Price": 5000,
+    "Count": 5,
+    "CountOrder": 8,
+    "Barcode": "2008030050000"
   },
   {
     "Name": "울루다 프루티 수박&딸기 200ml",
@@ -483,13 +497,6 @@
     "Barcode": "8888166337305"
   },
   {
-    "Name": " Lamb Lace Fat",
-    "Price": 3500,
-    "Count": 5,
-    "CountOrder": 13,
-    "Barcode": "2008480035008"
-  },
-  {
     "Name": " Beef Burger Patty",
     "Price": 9000,
     "Count": 5,
@@ -544,13 +551,6 @@
     "Count": 4,
     "CountOrder": 90,
     "Barcode": "86933056"
-  },
-  {
-    "Name": " 양어깨사각",
-    "Price": 5000,
-    "Count": 4,
-    "CountOrder": 10,
-    "Barcode": "2008030050000"
   },
   {
     "Name": "Salyami 500g",
@@ -749,6 +749,13 @@
     "Barcode": "8809694500283"
   },
   {
+    "Name": " 양목뼈",
+    "Price": 4000,
+    "Count": 3,
+    "CountOrder": 11,
+    "Barcode": "2008350040002"
+  },
+  {
     "Name": "해바라기유 2L",
     "Price": 7500,
     "Count": 3,
@@ -943,13 +950,6 @@
     "Count": 2,
     "CountOrder": 38,
     "Barcode": "2900000000520"
-  },
-  {
-    "Name": " 양목뼈",
-    "Price": 4000,
-    "Count": 2,
-    "CountOrder": 12,
-    "Barcode": "2008350040002"
   },
   {
     "Name": " 냉동 껍질없는 닭다리 정육 2000g ",
