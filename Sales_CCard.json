@@ -8478,5 +8478,477 @@
     "BuycompanyName": "우리카드",
     "Msg1": "거래 승인",
     "YMDHMS": "20240421003134"
+  },
+  {
+    "InsDate": "2024-04-21 07:30:14.261",
+    "PayAmount": 10500,
+    "CardName": "IBK비씨카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421073014"
+  },
+  {
+    "InsDate": "2024-04-21 10:32:12.662",
+    "PayAmount": 16000,
+    "CardName": "토스뱅크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421103212"
+  },
+  {
+    "InsDate": "2024-04-21 11:57:35.600",
+    "PayAmount": 12000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421115735"
+  },
+  {
+    "InsDate": "2024-04-21 12:04:53.876",
+    "PayAmount": 2500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421120453"
+  },
+  {
+    "InsDate": "2024-04-21 12:47:30.052",
+    "PayAmount": 11500,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421124730"
+  },
+  {
+    "InsDate": "2024-04-21 12:51:39.771",
+    "PayAmount": 1000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421125139"
+  },
+  {
+    "InsDate": "2024-04-21 12:52:11.934",
+    "PayAmount": 3000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421125211"
+  },
+  {
+    "InsDate": "2024-04-21 12:53:47.432",
+    "PayAmount": 4000,
+    "CardName": "우리카드",
+    "BuycompanyName": "우리카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421125347"
+  },
+  {
+    "InsDate": "2024-04-21 13:38:22.426",
+    "PayAmount": 1000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421133822"
+  },
+  {
+    "InsDate": "2024-04-21 14:04:22.680",
+    "PayAmount": 4000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421140422"
+  },
+  {
+    "InsDate": "2024-04-21 14:42:46.630",
+    "PayAmount": 41000,
+    "CardName": "롯데카드",
+    "BuycompanyName": "롯데카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421144246"
+  },
+  {
+    "InsDate": "2024-04-21 14:55:15.630",
+    "PayAmount": 12000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421145515"
+  },
+  {
+    "InsDate": "2024-04-21 14:56:31.261",
+    "PayAmount": 6000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421145631"
+  },
+  {
+    "InsDate": "2024-04-21 16:18:22.844",
+    "PayAmount": 32000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421161822"
+  },
+  {
+    "InsDate": "2024-04-21 16:18:59.917",
+    "PayAmount": 12500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421161859"
+  },
+  {
+    "InsDate": "2024-04-21 16:20:32.975",
+    "PayAmount": 12500,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421162032"
+  },
+  {
+    "InsDate": "2024-04-21 16:21:30.242",
+    "PayAmount": 28000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421162130"
+  },
+  {
+    "InsDate": "2024-04-21 16:22:14.287",
+    "PayAmount": 27500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421162214"
+  },
+  {
+    "InsDate": "2024-04-21 16:23:13.336",
+    "PayAmount": 42500,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421162313"
+  },
+  {
+    "InsDate": "2024-04-21 16:43:20.291",
+    "PayAmount": 26500,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421164320"
+  },
+  {
+    "InsDate": "2024-04-21 16:46:26.522",
+    "PayAmount": 3500,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421164626"
+  },
+  {
+    "InsDate": "2024-04-21 16:59:54.938",
+    "PayAmount": 14000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421165954"
+  },
+  {
+    "InsDate": "2024-04-21 17:05:27.814",
+    "PayAmount": 45800,
+    "CardName": "하나체크카드",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421170527"
+  },
+  {
+    "InsDate": "2024-04-21 17:12:55.577",
+    "PayAmount": 33500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421171255"
+  },
+  {
+    "InsDate": "2024-04-21 17:14:28.129",
+    "PayAmount": 40000,
+    "CardName": "IBK비씨카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421171428"
+  },
+  {
+    "InsDate": "2024-04-21 17:19:14.953",
+    "PayAmount": 14300,
+    "CardName": "IBK비씨카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421171914"
+  },
+  {
+    "InsDate": "2024-04-21 17:20:08.537",
+    "PayAmount": 3500,
+    "CardName": "삼성비자",
+    "BuycompanyName": "삼성카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421172008"
+  },
+  {
+    "InsDate": "2024-04-21 17:23:13.567",
+    "PayAmount": 5000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421172313"
+  },
+  {
+    "InsDate": "2024-04-21 17:35:44.791",
+    "PayAmount": 11000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421173544"
+  },
+  {
+    "InsDate": "2024-04-21 17:43:14.717",
+    "PayAmount": 4000,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421174314"
+  },
+  {
+    "InsDate": "2024-04-21 17:54:24.615",
+    "PayAmount": 21900,
+    "CardName": "지머니트랜스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421175424"
+  },
+  {
+    "InsDate": "2024-04-21 17:59:50.169",
+    "PayAmount": 38500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421175950"
+  },
+  {
+    "InsDate": "2024-04-21 18:02:21.780",
+    "PayAmount": 2500,
+    "CardName": "하나카드",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421180221"
+  },
+  {
+    "InsDate": "2024-04-21 18:05:53.279",
+    "PayAmount": 3000,
+    "CardName": "하나카드",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421180553"
+  },
+  {
+    "InsDate": "2024-04-21 18:41:01.800",
+    "PayAmount": 6000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421184101"
+  },
+  {
+    "InsDate": "2024-04-21 18:51:11.569",
+    "PayAmount": 3500,
+    "CardName": "신한카드 - 체크",
+    "BuycompanyName": "신한카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421185111"
+  },
+  {
+    "InsDate": "2024-04-21 19:03:35.735",
+    "PayAmount": 4500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421190335"
+  },
+  {
+    "InsDate": "2024-04-21 19:06:07.461",
+    "PayAmount": 6000,
+    "CardName": "삼성비자",
+    "BuycompanyName": "삼성카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421190607"
+  },
+  {
+    "InsDate": "2024-04-21 20:06:06.303",
+    "PayAmount": 18000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421200606"
+  },
+  {
+    "InsDate": "2024-04-21 20:10:00.514",
+    "PayAmount": 4500,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421201000"
+  },
+  {
+    "InsDate": "2024-04-21 20:10:23.878",
+    "PayAmount": 11500,
+    "CardName": "지머니트랜스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421201023"
+  },
+  {
+    "InsDate": "2024-04-21 20:19:04.286",
+    "PayAmount": 8000,
+    "CardName": "삼성비자",
+    "BuycompanyName": "삼성카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421201904"
+  },
+  {
+    "InsDate": "2024-04-21 20:24:31.416",
+    "PayAmount": 7000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421202431"
+  },
+  {
+    "InsDate": "2024-04-21 20:26:35.447",
+    "PayAmount": 9000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421202635"
+  },
+  {
+    "InsDate": "2024-04-21 20:34:17.754",
+    "PayAmount": 18000,
+    "CardName": "하나카드",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421203417"
+  },
+  {
+    "InsDate": "2024-04-21 20:35:05.521",
+    "PayAmount": 9000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421203505"
+  },
+  {
+    "InsDate": "2024-04-21 20:37:51.509",
+    "PayAmount": 5000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421203751"
+  },
+  {
+    "InsDate": "2024-04-21 20:41:42.628",
+    "PayAmount": 9000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421204142"
+  },
+  {
+    "InsDate": "2024-04-21 20:55:10.808",
+    "PayAmount": 3000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421205510"
+  },
+  {
+    "InsDate": "2024-04-21 20:59:13.458",
+    "PayAmount": 3000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421205913"
+  },
+  {
+    "InsDate": "2024-04-21 20:59:37.987",
+    "PayAmount": 1000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421205937"
+  },
+  {
+    "InsDate": "2024-04-21 21:03:49.912",
+    "PayAmount": 4500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421210349"
+  },
+  {
+    "InsDate": "2024-04-21 21:14:12.237",
+    "PayAmount": 22000,
+    "CardName": "토스뱅크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421211412"
+  },
+  {
+    "InsDate": "2024-04-21 21:15:47.628",
+    "PayAmount": 2000,
+    "CardName": "토스뱅크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421211547"
+  },
+  {
+    "InsDate": "2024-04-21 21:29:08.298",
+    "PayAmount": 3000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421212908"
+  },
+  {
+    "InsDate": "2024-04-21 21:41:21.034",
+    "PayAmount": 8000,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421214121"
+  },
+  {
+    "InsDate": "2024-04-21 21:51:23.114",
+    "PayAmount": 500,
+    "CardName": "KB 체크카드",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421215123"
+  },
+  {
+    "InsDate": "2024-04-21 22:22:13.753",
+    "PayAmount": 7000,
+    "CardName": "현대비자카드",
+    "BuycompanyName": "현대카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240421222213"
+  },
+  {
+    "InsDate": "2024-04-22 01:00:53.793",
+    "PayAmount": 5500,
+    "CardName": "롯데카드",
+    "BuycompanyName": "롯데카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240422010053"
   }
 ]
