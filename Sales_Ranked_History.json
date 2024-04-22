@@ -9,8 +9,8 @@
   {
     "Name": "Medovik - 1조각",
     "Price": 6000,
-    "Count": 71,
-    "CountOrder": -7,
+    "Count": 72,
+    "CountOrder": -8,
     "Barcode": "88012101"
   },
   {
@@ -196,6 +196,13 @@
     "Barcode": "8809694500061"
   },
   {
+    "Name": "하리카미니스 500g",
+    "Price": 5000,
+    "Count": 25,
+    "CountOrder": 8,
+    "Barcode": "8690562011334"
+  },
+  {
     "Name": "엑스엑스엘 화이트 초콜릿 웨이퍼 50g",
     "Price": 1000,
     "Count": 25,
@@ -217,11 +224,18 @@
     "Barcode": "089686171679"
   },
   {
-    "Name": "하리카미니스 500g",
+    "Name": "딜라이트 버터향 쿠키 75g",
+    "Price": 500,
+    "Count": 24,
+    "CountOrder": 8,
+    "Barcode": "8901972076555"
+  },
+  {
+    "Name": "Seara GRILLER 1KG",
     "Price": 5000,
     "Count": 24,
-    "CountOrder": 9,
-    "Barcode": "8690562011334"
+    "CountOrder": 2,
+    "Barcode": "7894904924943"
   },
   {
     "Name": "로얄브리티시코코넛쿠키 80g",
@@ -229,20 +243,6 @@
     "Count": 23,
     "CountOrder": 28,
     "Barcode": "9555701502854"
-  },
-  {
-    "Name": "딜라이트 버터향 쿠키 75g",
-    "Price": 500,
-    "Count": 23,
-    "CountOrder": 10,
-    "Barcode": "8901972076555"
-  },
-  {
-    "Name": "Seara GRILLER 1KG",
-    "Price": 5000,
-    "Count": 23,
-    "CountOrder": 3,
-    "Barcode": "7894904924943"
   },
   {
     "Name": "데나 딸기혼하넥타르 1L",
@@ -1134,6 +1134,13 @@
     "Barcode": "8683020400092"
   },
   {
+    "Name": "양뼈사테 / FORE SHANK (SMALL)",
+    "Price": 15000,
+    "Count": 7,
+    "CountOrder": 8,
+    "Barcode": "2008070150005"
+  },
+  {
     "Name": "맥심크라운 275g",
     "Price": 3500,
     "Count": 6,
@@ -1244,13 +1251,6 @@
     "Count": 6,
     "CountOrder": 38,
     "Barcode": "2900000000523"
-  },
-  {
-    "Name": "양뼈사테 / FORE SHANK (SMALL)",
-    "Price": 15000,
-    "Count": 6,
-    "CountOrder": 9,
-    "Barcode": "2008070150005"
   },
   {
     "Name": "해바라기 씨 250g",
@@ -1834,6 +1834,13 @@
     "Barcode": "8801007100838"
   },
   {
+    "Name": "DINAY MultiFruit",
+    "Price": 3000,
+    "Count": 3,
+    "CountOrder": 13,
+    "Barcode": "4780019900497"
+  },
+  {
     "Name": "해바라기 씨 소금맛 200g",
     "Price": 4000,
     "Count": 3,
@@ -2042,13 +2049,6 @@
     "Count": 2,
     "CountOrder": 6,
     "Barcode": "4780016370590"
-  },
-  {
-    "Name": "DINAY MultiFruit",
-    "Price": 3000,
-    "Count": 2,
-    "CountOrder": 14,
-    "Barcode": "4780019900497"
   },
   {
     "Name": "DENA TOMATO 1L",
