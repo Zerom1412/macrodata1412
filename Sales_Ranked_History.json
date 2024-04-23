@@ -2,8 +2,8 @@
   {
     "Name": "닉스 XXL 50g",
     "Price": 500,
-    "Count": 116,
-    "CountOrder": 468,
+    "Count": 117,
+    "CountOrder": 465,
     "Barcode": "8690562011907"
   },
   {
@@ -16,8 +16,8 @@
   {
     "Name": "크레마리초콜릿크림비스킷 61g",
     "Price": 500,
-    "Count": 62,
-    "CountOrder": 7,
+    "Count": 64,
+    "CountOrder": 5,
     "Barcode": "8690120509792"
   },
   {
@@ -30,9 +30,16 @@
   {
     "Name": "마리오 버터 비스킷 90g",
     "Price": 500,
-    "Count": 46,
-    "CountOrder": 28,
+    "Count": 47,
+    "CountOrder": 27,
     "Barcode": "8904300200349"
+  },
+  {
+    "Name": "크레마리헤이즐넛크림비스킷 61g",
+    "Price": 500,
+    "Count": 45,
+    "CountOrder": 3,
+    "Barcode": "8690120508528"
   },
   {
     "Name": "Snikers - 1조각",
@@ -49,11 +56,11 @@
     "Barcode": "8690558029145"
   },
   {
-    "Name": "크레마리헤이즐넛크림비스킷 61g",
+    "Name": "엑스트라헤이즐넛크림 웨이퍼 50g",
     "Price": 500,
-    "Count": 44,
-    "CountOrder": 5,
-    "Barcode": "8690120508528"
+    "Count": 40,
+    "CountOrder": 695,
+    "Barcode": "8695504168725"
   },
   {
     "Name": "크레마리플레인크림비스킷 61g",
@@ -61,13 +68,6 @@
     "Count": 40,
     "CountOrder": -6,
     "Barcode": "8690120508481"
-  },
-  {
-    "Name": "엑스트라헤이즐넛크림 웨이퍼 50g",
-    "Price": 500,
-    "Count": 39,
-    "CountOrder": 697,
-    "Barcode": "8695504168725"
   },
   {
     "Name": "디메스 복숭아 넥타 330ml",
@@ -93,8 +93,8 @@
   {
     "Name": "니신와퍼 밀크맛 100g",
     "Price": 1000,
-    "Count": 37,
-    "CountOrder": 11,
+    "Count": 38,
+    "CountOrder": 10,
     "Barcode": "8888166989474"
   },
   {
@@ -112,25 +112,25 @@
     "Barcode": "4800016633799"
   },
   {
-    "Name": " 해바라기씨 260g ",
-    "Price": 3000,
-    "Count": 32,
-    "CountOrder": 2,
-    "Barcode": "8859559600078"
-  },
-  {
     "Name": "마리오 캐슈넛 비스킷 90g",
     "Price": 500,
-    "Count": 31,
-    "CountOrder": 48,
+    "Count": 32,
+    "CountOrder": 38,
     "Barcode": "8904300200486"
   },
   {
     "Name": "피아토스 샤워크림향 & 양파맛 감자칩 85g",
     "Price": 1200,
-    "Count": 31,
-    "CountOrder": 16,
+    "Count": 32,
+    "CountOrder": 15,
     "Barcode": "4800016671500"
+  },
+  {
+    "Name": " 해바라기씨 260g ",
+    "Price": 3000,
+    "Count": 32,
+    "CountOrder": 2,
+    "Barcode": "8859559600078"
   },
   {
     "Name": "Basmati 쌀 1000g",
@@ -140,18 +140,18 @@
     "Barcode": "8809981700006"
   },
   {
+    "Name": " Salyami 1000g ",
+    "Price": 15700,
+    "Count": 30,
+    "CountOrder": -5,
+    "Barcode": "8809694500245"
+  },
+  {
     "Name": "데나 석류사과체리넥타르 1L",
     "Price": 3000,
     "Count": 29,
     "CountOrder": 1,
     "Barcode": "4780016371030"
-  },
-  {
-    "Name": " Salyami 1000g ",
-    "Price": 15700,
-    "Count": 29,
-    "CountOrder": -4,
-    "Barcode": "8809694500245"
   },
   {
     "Name": "데나 살구혼합넥타르 1L",
@@ -182,6 +182,20 @@
     "Barcode": "4780016370095"
   },
   {
+    "Name": "미고렝페다스핫라면 80g",
+    "Price": 600,
+    "Count": 26,
+    "CountOrder": 65,
+    "Barcode": "089686171679"
+  },
+  {
+    "Name": "Halal Moskovsky Beef Sausage 600g",
+    "Price": 9500,
+    "Count": 26,
+    "CountOrder": 3,
+    "Barcode": "8809694500061"
+  },
+  {
     "Name": "하리카미니스 500g",
     "Price": 5000,
     "Count": 26,
@@ -189,11 +203,11 @@
     "Barcode": "8690562011334"
   },
   {
-    "Name": "미고렝페다스핫라면 80g",
+    "Name": "미고랭라면 80g",
     "Price": 600,
     "Count": 25,
-    "CountOrder": 66,
-    "Barcode": "089686171679"
+    "CountOrder": 71,
+    "Barcode": "089686170733"
   },
   {
     "Name": "딜라이트 캐슈 쿠키 75g",
@@ -203,13 +217,6 @@
     "Barcode": "8901972076562"
   },
   {
-    "Name": "Halal Moskovsky Beef Sausage 600g",
-    "Price": 9500,
-    "Count": 25,
-    "CountOrder": 4,
-    "Barcode": "8809694500061"
-  },
-  {
     "Name": "엑스엑스엘 화이트 초콜릿 웨이퍼 50g",
     "Price": 1000,
     "Count": 25,
@@ -217,18 +224,18 @@
     "Barcode": "8691720004960"
   },
   {
-    "Name": "미고랭라면 80g",
-    "Price": 600,
-    "Count": 24,
-    "CountOrder": 74,
-    "Barcode": "089686170733"
-  },
-  {
     "Name": "딜라이트 버터향 쿠키 75g",
     "Price": 500,
     "Count": 24,
     "CountOrder": 8,
     "Barcode": "8901972076555"
+  },
+  {
+    "Name": "데나 딸기혼하넥타르 1L",
+    "Price": 3000,
+    "Count": 24,
+    "CountOrder": 10,
+    "Barcode": "4780016370835"
   },
   {
     "Name": "Seara GRILLER 1KG",
@@ -245,11 +252,11 @@
     "Barcode": "9555701502854"
   },
   {
-    "Name": "데나 딸기혼하넥타르 1L",
-    "Price": 3000,
-    "Count": 23,
-    "CountOrder": 11,
-    "Barcode": "4780016370835"
+    "Name": "울루다 프루티 수박&딸기 200ml",
+    "Price": 1000,
+    "Count": 22,
+    "CountOrder": 20,
+    "Barcode": "86933193"
   },
   {
     "Name": "울루다 프루티 엑스트라 귤 250ml",
@@ -294,13 +301,6 @@
     "Barcode": "8690562002189"
   },
   {
-    "Name": "울루다 프루티 수박&딸기 200ml",
-    "Price": 1000,
-    "Count": 21,
-    "CountOrder": 22,
-    "Barcode": "86933193"
-  },
-  {
     "Name": "메디나 딜라이츠 사가이 대추야자 500g",
     "Price": 8500,
     "Count": 20,
@@ -329,6 +329,13 @@
     "Barcode": "88013101"
   },
   {
+    "Name": "니신와퍼 딸기맛 100g",
+    "Price": 1000,
+    "Count": 20,
+    "CountOrder": 32,
+    "Barcode": "8888166337305"
+  },
+  {
     "Name": "울루다 프루티 엑스트라 멜론 250ml",
     "Price": 1500,
     "Count": 20,
@@ -341,6 +348,13 @@
     "Count": 20,
     "CountOrder": 15,
     "Barcode": "8690562007702"
+  },
+  {
+    "Name": "Somsa",
+    "Price": 4000,
+    "Count": 20,
+    "CountOrder": -37,
+    "Barcode": "88014103"
   },
   {
     "Name": "에이비씨 카리아얌 치킨커리향 60g",
@@ -371,39 +385,53 @@
     "Barcode": "8690562007627"
   },
   {
-    "Name": "니신와퍼 딸기맛 100g",
-    "Price": 1000,
-    "Count": 19,
-    "CountOrder": 33,
-    "Barcode": "8888166337305"
-  },
-  {
-    "Name": "Somsa",
-    "Price": 4000,
-    "Count": 19,
-    "CountOrder": -35,
-    "Barcode": "88014103"
-  },
-  {
     "Name": "맥오티초콜릿칩오트쿠키 80g",
     "Price": 1000,
-    "Count": 18,
-    "CountOrder": 25,
+    "Count": 19,
+    "CountOrder": 24,
     "Barcode": "9555701508498"
   },
   {
     "Name": "울루다 프루티 복숭아향 200ml",
     "Price": 1000,
-    "Count": 18,
-    "CountOrder": 112,
+    "Count": 19,
+    "CountOrder": 111,
     "Barcode": "86933162"
   },
   {
     "Name": "데나 애플체리넥타르 1L",
     "Price": 3000,
-    "Count": 18,
-    "CountOrder": 4,
+    "Count": 19,
+    "CountOrder": 3,
     "Barcode": "4780016370309"
+  },
+  {
+    "Name": "맥심크라운 66g",
+    "Price": 1000,
+    "Count": 19,
+    "CountOrder": 156,
+    "Barcode": "8693029033801"
+  },
+  {
+    "Name": "디메스 파인애플 드링크 1L",
+    "Price": 3000,
+    "Count": 18,
+    "CountOrder": -20,
+    "Barcode": "8690558014776"
+  },
+  {
+    "Name": "소토미향라면 75g",
+    "Price": 600,
+    "Count": 18,
+    "CountOrder": -3,
+    "Barcode": "089686170344"
+  },
+  {
+    "Name": "폰단테퍼지초콜릿크림 500g",
+    "Price": 5000,
+    "Count": 18,
+    "CountOrder": 84,
+    "Barcode": "8695504166356"
   },
   {
     "Name": "쇠고기 스튜 400g",
@@ -420,13 +448,6 @@
     "Barcode": "6287009830010"
   },
   {
-    "Name": "맥심크라운 66g",
-    "Price": 1000,
-    "Count": 18,
-    "CountOrder": 157,
-    "Barcode": "8693029033801"
-  },
-  {
     "Name": "챔프 코촐릿 쿠키 오리지널 120g",
     "Price": 2000,
     "Count": 18,
@@ -441,25 +462,11 @@
     "Barcode": "8693029603370"
   },
   {
-    "Name": "디메스 파인애플 드링크 1L",
-    "Price": 3000,
+    "Name": "Khalas 대추야자 1000g",
+    "Price": 7000,
     "Count": 17,
-    "CountOrder": -19,
-    "Barcode": "8690558014776"
-  },
-  {
-    "Name": "소토미향라면 75g",
-    "Price": 600,
-    "Count": 17,
-    "CountOrder": -2,
-    "Barcode": "089686170344"
-  },
-  {
-    "Name": "폰단테퍼지초콜릿크림 500g",
-    "Price": 5000,
-    "Count": 17,
-    "CountOrder": 85,
-    "Barcode": "8695504166356"
+    "CountOrder": 0,
+    "Barcode": "6291100212866"
   },
   {
     "Name": " Beef Burger Patty",
@@ -490,18 +497,25 @@
     "Barcode": "8992388121090"
   },
   {
-    "Name": "Khalas 대추야자 1000g",
-    "Price": 7000,
-    "Count": 16,
-    "CountOrder": 1,
-    "Barcode": "6291100212866"
-  },
-  {
     "Name": "디메스 사우어체리 넥타 1L",
     "Price": 3000,
     "Count": 16,
     "CountOrder": 12,
     "Barcode": "8690558027554"
+  },
+  {
+    "Name": "웨이퍼 마스터 롤 카푸치노향크림 65g",
+    "Price": 1000,
+    "Count": 15,
+    "CountOrder": 32,
+    "Barcode": "8691066187051"
+  },
+  {
+    "Name": " Elitnaya 800g ",
+    "Price": 14500,
+    "Count": 15,
+    "CountOrder": 3,
+    "Barcode": "8809694500269"
   },
   {
     "Name": "대추야자 1000g",
@@ -532,11 +546,11 @@
     "Barcode": "8809694500009"
   },
   {
-    "Name": "웨이퍼 마스터 롤 카푸치노향크림 65g",
-    "Price": 1000,
+    "Name": "에이비씨 소토아얌 치킨소토향 60g",
+    "Price": 1500,
     "Count": 14,
-    "CountOrder": 33,
-    "Barcode": "8691066187051"
+    "CountOrder": 4,
+    "Barcode": "8992388121045"
   },
   {
     "Name": "치킨커리향라면 80g",
@@ -565,13 +579,6 @@
     "Count": 14,
     "CountOrder": 5,
     "Barcode": "6297000361307"
-  },
-  {
-    "Name": " Elitnaya 800g ",
-    "Price": 14500,
-    "Count": 14,
-    "CountOrder": 4,
-    "Barcode": "8809694500269"
   },
   {
     "Name": " 나켈알야 아츠와",
@@ -616,13 +623,6 @@
     "Barcode": "5903999700010"
   },
   {
-    "Name": "에이비씨 소토아얌 치킨소토향 60g",
-    "Price": 1500,
-    "Count": 13,
-    "CountOrder": 6,
-    "Barcode": "8992388121045"
-  },
-  {
     "Name": "비파핑거비스킷 780g",
     "Price": 4000,
     "Count": 13,
@@ -649,6 +649,13 @@
     "Count": 13,
     "CountOrder": 0,
     "Barcode": "8809694500047"
+  },
+  {
+    "Name": "Non Small",
+    "Price": 2500,
+    "Count": 13,
+    "CountOrder": -19,
+    "Barcode": "88014101"
   },
   {
     "Name": "오이절임 640g",
@@ -679,11 +686,32 @@
     "Barcode": "2008480035008"
   },
   {
-    "Name": "Non Small",
-    "Price": 2500,
+    "Name": "해바라기유 1L",
+    "Price": 4000,
     "Count": 12,
-    "CountOrder": -17,
-    "Barcode": "88014101"
+    "CountOrder": 68,
+    "Barcode": "8690619011003"
+  },
+  {
+    "Name": "토르쿠 바나다 헤이즐넛크림 위드 코코아 400g",
+    "Price": 4500,
+    "Count": 12,
+    "CountOrder": 12,
+    "Barcode": "8690120054384"
+  },
+  {
+    "Name": "아덴 마르카나 펜네리가떼 500g",
+    "Price": 2000,
+    "Count": 12,
+    "CountOrder": 47,
+    "Barcode": "8683020400009"
+  },
+  {
+    "Name": " 치킨향라면 75g ",
+    "Price": 600,
+    "Count": 12,
+    "CountOrder": 21,
+    "Barcode": "089686170047"
   },
   {
     "Name": " 아덴 마르카나 엘보우 500g ",
@@ -714,6 +742,20 @@
     "Barcode": "8809706580081"
   },
   {
+    "Name": "웨이퍼 마스터 롤 바닐라크림 65g",
+    "Price": 1200,
+    "Count": 11,
+    "CountOrder": 35,
+    "Barcode": "8691066189055"
+  },
+  {
+    "Name": "트러플초콜릿(헤이즐넛맛) 92g",
+    "Price": 1000,
+    "Count": 11,
+    "CountOrder": 29,
+    "Barcode": "8693029020108"
+  },
+  {
     "Name": " 양어깨갈비",
     "Price": 6000,
     "Count": 11,
@@ -726,13 +768,6 @@
     "Count": 11,
     "CountOrder": -8,
     "Barcode": "5760725238052"
-  },
-  {
-    "Name": "해바라기유 1L",
-    "Price": 4000,
-    "Count": 11,
-    "CountOrder": 69,
-    "Barcode": "8690619011003"
   },
   {
     "Name": "디메스 복숭아 넥타 1L",
@@ -749,13 +784,6 @@
     "Barcode": "8809694500078"
   },
   {
-    "Name": "토르쿠 바나다 헤이즐넛크림 위드 코코아 400g",
-    "Price": 4500,
-    "Count": 11,
-    "CountOrder": 13,
-    "Barcode": "8690120054384"
-  },
-  {
     "Name": "울루다 탄산수 200ml",
     "Price": 1000,
     "Count": 11,
@@ -763,18 +791,11 @@
     "Barcode": "8690723511208"
   },
   {
-    "Name": "아덴 마르카나 펜네리가떼 500g",
-    "Price": 2000,
+    "Name": " 해바라기씨 260g ",
+    "Price": 3000,
     "Count": 11,
-    "CountOrder": 48,
-    "Barcode": "8683020400009"
-  },
-  {
-    "Name": " 치킨향라면 75g ",
-    "Price": 600,
-    "Count": 11,
-    "CountOrder": 23,
-    "Barcode": "089686170047"
+    "CountOrder": 8,
+    "Barcode": "8859559600054"
   },
   {
     "Name": " 볶은 메밀 800g ",
@@ -812,18 +833,11 @@
     "Barcode": "8809694500276"
   },
   {
-    "Name": "웨이퍼 마스터 롤 바닐라크림 65g",
-    "Price": 1200,
-    "Count": 10,
-    "CountOrder": 36,
-    "Barcode": "8691066189055"
-  },
-  {
-    "Name": "트러플초콜릿(헤이즐넛맛) 92g",
+    "Name": "오레지초코파티크레커 100g",
     "Price": 1000,
     "Count": 10,
-    "CountOrder": 30,
-    "Barcode": "8693029020108"
+    "CountOrder": 47,
+    "Barcode": "8998389132066"
   },
   {
     "Name": "메디나 딜라이츠 쿠드리 대추야자 500g",
@@ -854,13 +868,6 @@
     "Barcode": "8998150001"
   },
   {
-    "Name": " 해바라기씨 260g ",
-    "Price": 3000,
-    "Count": 10,
-    "CountOrder": 9,
-    "Barcode": "8859559600054"
-  },
-  {
     "Name": "트러플초콜릿(피스타치오향) 92g",
     "Price": 1000,
     "Count": 9,
@@ -873,13 +880,6 @@
     "Count": 9,
     "CountOrder": 1,
     "Barcode": "8809694500283"
-  },
-  {
-    "Name": "오레지초코파티크레커 100g",
-    "Price": 1000,
-    "Count": 9,
-    "CountOrder": 48,
-    "Barcode": "8998389132066"
   },
   {
     "Name": " 양뼈사테",
@@ -917,6 +917,13 @@
     "Barcode": "7894904240418"
   },
   {
+    "Name": "트러피나 헤이즐&넛크림 450g",
+    "Price": 7500,
+    "Count": 9,
+    "CountOrder": 38,
+    "Barcode": "8682354110653"
+  },
+  {
     "Name": " 양간",
     "Price": 4000,
     "Count": 9,
@@ -950,6 +957,13 @@
     "Count": 9,
     "CountOrder": 37,
     "Barcode": "40111216"
+  },
+  {
+    "Name": "MARS  51 gr",
+    "Price": 2000,
+    "Count": 9,
+    "CountOrder": 36,
+    "Barcode": "5000159407236"
   },
   {
     "Name": " 사골",
@@ -1001,13 +1015,6 @@
     "Barcode": "6291108106884"
   },
   {
-    "Name": "트러피나 헤이즐&넛크림 450g",
-    "Price": 7500,
-    "Count": 8,
-    "CountOrder": 39,
-    "Barcode": "8682354110653"
-  },
-  {
     "Name": "트러피나 아몬드&코코넛 450g",
     "Price": 7500,
     "Count": 8,
@@ -1043,18 +1050,18 @@
     "Barcode": "2008420030001"
   },
   {
+    "Name": "양뼈사테 / FORE SHANK (SMALL)",
+    "Price": 15000,
+    "Count": 8,
+    "CountOrder": 7,
+    "Barcode": "2008070150005"
+  },
+  {
     "Name": "서울우유 1L",
     "Price": 3000,
     "Count": 8,
     "CountOrder": -7,
     "Barcode": "8801115115151"
-  },
-  {
-    "Name": "MARS  51 gr",
-    "Price": 2000,
-    "Count": 8,
-    "CountOrder": 37,
-    "Barcode": "5000159407236"
   },
   {
     "Name": "슈가밀키크레커 108g",
@@ -1069,6 +1076,13 @@
     "Count": 7,
     "CountOrder": 6,
     "Barcode": "2008030050000"
+  },
+  {
+    "Name": "오레지치즈초코크레커 100g",
+    "Price": 1000,
+    "Count": 7,
+    "CountOrder": 53,
+    "Barcode": "8998389132073"
   },
   {
     "Name": "울루다 프루티 그린애플향 200ml",
@@ -1106,6 +1120,13 @@
     "Barcode": "6291109300502"
   },
   {
+    "Name": " 오이절임 1650g ",
+    "Price": 8500,
+    "Count": 7,
+    "CountOrder": 11,
+    "Barcode": "8690804152504"
+  },
+  {
     "Name": "트러플초콜릿(티라미수향) 92g",
     "Price": 1000,
     "Count": 7,
@@ -1141,11 +1162,11 @@
     "Barcode": "8683020400092"
   },
   {
-    "Name": "양뼈사테 / FORE SHANK (SMALL)",
-    "Price": 15000,
+    "Name": " 알룐카 다크 초콜릿 85g ",
+    "Price": 2000,
     "Count": 7,
-    "CountOrder": 8,
-    "Barcode": "2008070150005"
+    "CountOrder": 22,
+    "Barcode": "4600080449513"
   },
   {
     "Name": "맥심크라운 275g",
@@ -1153,13 +1174,6 @@
     "Count": 6,
     "CountOrder": 30,
     "Barcode": "8693029033825"
-  },
-  {
-    "Name": "오레지치즈초코크레커 100g",
-    "Price": 1000,
-    "Count": 6,
-    "CountOrder": 54,
-    "Barcode": "8998389132073"
   },
   {
     "Name": " 양목뼈",
@@ -1211,13 +1225,6 @@
     "Barcode": "8809694500023"
   },
   {
-    "Name": " 오이절임 1650g ",
-    "Price": 8500,
-    "Count": 6,
-    "CountOrder": 12,
-    "Barcode": "8690804152504"
-  },
-  {
     "Name": "토픽스과일향츄위캔디 1000g",
     "Price": 6500,
     "Count": 6,
@@ -1258,13 +1265,6 @@
     "Count": 6,
     "CountOrder": 8,
     "Barcode": "4630007400419"
-  },
-  {
-    "Name": " 알룐카 다크 초콜릿 85g ",
-    "Price": 2000,
-    "Count": 6,
-    "CountOrder": 23,
-    "Barcode": "4600080449513"
   },
   {
     "Name": "게리 코코넛 크래커 100g",
@@ -1398,6 +1398,13 @@
     "Count": 5,
     "CountOrder": 1,
     "Barcode": "7894904040698"
+  },
+  {
+    "Name": " 알룐카 밀크 초콜릿 85g ",
+    "Price": 2000,
+    "Count": 5,
+    "CountOrder": 25,
+    "Barcode": "4600080449506"
   },
   {
     "Name": "포커스 비스킷 128g",
@@ -1575,13 +1582,6 @@
     "Barcode": "8803993705707"
   },
   {
-    "Name": " 알룐카 밀크 초콜릿 85g ",
-    "Price": 2000,
-    "Count": 4,
-    "CountOrder": 26,
-    "Barcode": "4600080449506"
-  },
-  {
     "Name": " Tunisian Dates 1000g ",
     "Price": 9000,
     "Count": 4,
@@ -1601,6 +1601,13 @@
     "Count": 4,
     "CountOrder": 0,
     "Barcode": "8809486791530"
+  },
+  {
+    "Name": "버터롤 24입",
+    "Price": 5500,
+    "Count": 4,
+    "CountOrder": 0,
+    "Barcode": "8809210081609"
   },
   {
     "Name": "Non Large",
@@ -1834,6 +1841,13 @@
     "Barcode": "8801007100838"
   },
   {
+    "Name": "사과자두체리넥타르 1L / ",
+    "Price": 3000,
+    "Count": 3,
+    "CountOrder": 5,
+    "Barcode": "4780016370590"
+  },
+  {
     "Name": "DINAY MultiFruit",
     "Price": 3000,
     "Count": 3,
@@ -1860,13 +1874,6 @@
     "Count": 3,
     "CountOrder": 9,
     "Barcode": "072810652465"
-  },
-  {
-    "Name": "버터롤 24입",
-    "Price": 5500,
-    "Count": 3,
-    "CountOrder": 1,
-    "Barcode": "8809210081609"
   },
   {
     "Name": "완두콩절임 410g",
@@ -1981,6 +1988,13 @@
     "Barcode": "788821001146"
   },
   {
+    "Name": "터키쉬 라브네 180g",
+    "Price": 4500,
+    "Count": 2,
+    "CountOrder": -2,
+    "Barcode": "8690347200809"
+  },
+  {
     "Name": "페타 화이트 치즈 500g",
     "Price": 10500,
     "Count": 2,
@@ -2007,6 +2021,13 @@
     "Count": 2,
     "CountOrder": 3,
     "Barcode": "096619632145"
+  },
+  {
+    "Name": "토자 그린티 녹차 110 400g",
+    "Price": 13000,
+    "Count": 2,
+    "CountOrder": 13,
+    "Barcode": "4780043530189"
   },
   {
     "Name": "날야 호두 대추야자 480g",
@@ -2042,13 +2063,6 @@
     "Count": 2,
     "CountOrder": 8,
     "Barcode": "8809706580067"
-  },
-  {
-    "Name": "사과자두체리넥타르 1L / ",
-    "Price": 3000,
-    "Count": 2,
-    "CountOrder": 6,
-    "Barcode": "4780016370590"
   },
   {
     "Name": "DENA TOMATO 1L",
@@ -2338,13 +2352,6 @@
     "Barcode": "4780021591171"
   },
   {
-    "Name": "터키쉬 라브네 180g",
-    "Price": 4500,
-    "Count": 1,
-    "CountOrder": -1,
-    "Barcode": "8690347200809"
-  },
-  {
     "Name": "그린올리브 위드 레드페퍼 350g",
     "Price": 4500,
     "Count": 1,
@@ -2364,13 +2371,6 @@
     "Count": 1,
     "CountOrder": -1,
     "Barcode": "8690347190636"
-  },
-  {
-    "Name": "토자 그린티 녹차 110 400g",
-    "Price": 13000,
-    "Count": 1,
-    "CountOrder": 14,
-    "Barcode": "4780043530189"
   },
   {
     "Name": "버락 마카르나 구젤리 500g",
@@ -2518,5 +2518,19 @@
     "Count": 1,
     "CountOrder": 47,
     "Barcode": "4870066002913"
+  },
+  {
+    "Name": "KUZYA Lakomkin ",
+    "Price": 2000,
+    "Count": 1,
+    "CountOrder": 14,
+    "Barcode": "4602041012736"
+  },
+  {
+    "Name": " Cremica High Bran Biscuits 200g ",
+    "Price": 2500,
+    "Count": 1,
+    "CountOrder": 11,
+    "Barcode": "8906078265582"
   }
 ]
