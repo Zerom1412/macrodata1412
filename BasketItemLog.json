@@ -18770,7 +18770,42 @@
     "Name": "울루다 프루티 복숭아향 200ml",
     "Barcode": "86933162",
     "Price": 1000,
-    "Count": 2,
+    "Count": 5,
+    "Ins_Date": "2024-04-24"
+  },
+  {
+    "Name": "Sari Dates 800g",
+    "Barcode": "6297000361408",
+    "Price": 9500,
+    "Count": 1,
+    "Ins_Date": "2024-04-24"
+  },
+  {
+    "Name": "테스 포레스트 드림 36g",
+    "Barcode": "4605246007842",
+    "Price": 4000,
+    "Count": 1,
+    "Ins_Date": "2024-04-24"
+  },
+  {
+    "Name": "해바라기 씨 250g",
+    "Barcode": "4630007400419",
+    "Price": 4000,
+    "Count": 1,
+    "Ins_Date": "2024-04-24"
+  },
+  {
+    "Name": "코피코 커피맛 캔디 175g",
+    "Barcode": "8996001330722",
+    "Price": 2000,
+    "Count": 1,
+    "Ins_Date": "2024-04-24"
+  },
+  {
+    "Name": "Halal Krakov Sausage 500g",
+    "Barcode": "8809694500054",
+    "Price": 9500,
+    "Count": 1,
     "Ins_Date": "2024-04-24"
   }
 ]
