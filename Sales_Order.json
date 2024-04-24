@@ -8413,5 +8413,10 @@
     "InsDate": "2024-04-24 21:50:51.065",
     "ApprovalType": "CASH",
     "PayApprovalAmount": 4400
+  },
+  {
+    "InsDate": "2024-04-24 22:35:04.981",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 32000
   }
 ]
