@@ -308,6 +308,13 @@
     "Barcode": "8690562002189"
   },
   {
+    "Name": "울루다 프루티 복숭아향 200ml",
+    "Price": 1000,
+    "Count": 21,
+    "CountOrder": 106,
+    "Barcode": "86933162"
+  },
+  {
     "Name": "에이비씨 카리아얌 치킨커리향 60g",
     "Price": 1500,
     "Count": 20,
@@ -320,13 +327,6 @@
     "Count": 20,
     "CountOrder": 4,
     "Barcode": "767461917239"
-  },
-  {
-    "Name": "울루다 프루티 복숭아향 200ml",
-    "Price": 1000,
-    "Count": 20,
-    "CountOrder": 109,
-    "Barcode": "86933162"
   },
   {
     "Name": "데나 모과사과넥타르 1L",
@@ -518,6 +518,13 @@
     "Barcode": "8690558027554"
   },
   {
+    "Name": " Sari Dates 800g ",
+    "Price": 9500,
+    "Count": 16,
+    "CountOrder": 8,
+    "Barcode": "6297000361408"
+  },
+  {
     "Name": "Halal Servelat Sausage 500g",
     "Price": 9500,
     "Count": 16,
@@ -544,13 +551,6 @@
     "Count": 15,
     "CountOrder": 2,
     "Barcode": "6291100213108"
-  },
-  {
-    "Name": " Sari Dates 800g ",
-    "Price": 9500,
-    "Count": 15,
-    "CountOrder": 9,
-    "Barcode": "6297000361408"
   },
   {
     "Name": "에이비씨 소토아얌 치킨소토향 60g",
@@ -1036,6 +1036,13 @@
     "Barcode": "8809706580135"
   },
   {
+    "Name": "테스 포레스트 드림 36g",
+    "Price": 4000,
+    "Count": 8,
+    "CountOrder": 4,
+    "Barcode": "4605246007842"
+  },
+  {
     "Name": " 냉동계육가슴 2000g ",
     "Price": 12000,
     "Count": 8,
@@ -1141,13 +1148,6 @@
     "Barcode": "8693029020139"
   },
   {
-    "Name": "테스 포레스트 드림 36g",
-    "Price": 4000,
-    "Count": 7,
-    "CountOrder": 5,
-    "Barcode": "4605246007842"
-  },
-  {
     "Name": "Halal Beef Frank Sausage 500g",
     "Price": 7500,
     "Count": 7,
@@ -1167,6 +1167,13 @@
     "Count": 7,
     "CountOrder": 49,
     "Barcode": "8683020400092"
+  },
+  {
+    "Name": "해바라기 씨 250g",
+    "Price": 4000,
+    "Count": 7,
+    "CountOrder": 7,
+    "Barcode": "4630007400419"
   },
   {
     "Name": " 알룐카 다크 초콜릿 85g ",
@@ -1260,13 +1267,6 @@
     "Barcode": "2900000000523"
   },
   {
-    "Name": "해바라기 씨 250g",
-    "Price": 4000,
-    "Count": 6,
-    "CountOrder": 8,
-    "Barcode": "4630007400419"
-  },
-  {
     "Name": "사우어체리잼 380g",
     "Price": 4500,
     "Count": 6,
@@ -1286,6 +1286,13 @@
     "Count": 5,
     "CountOrder": 14,
     "Barcode": "2008130140007"
+  },
+  {
+    "Name": "Halal Krakov Sausage 500g",
+    "Price": 9500,
+    "Count": 5,
+    "CountOrder": 5,
+    "Barcode": "8809694500054"
   },
   {
     "Name": " 수카리 대추야자",
@@ -1419,13 +1426,6 @@
     "Count": 4,
     "CountOrder": 20,
     "Barcode": "8809706580029"
-  },
-  {
-    "Name": "Halal Krakov Sausage 500g",
-    "Price": 9500,
-    "Count": 4,
-    "CountOrder": 6,
-    "Barcode": "8809694500054"
   },
   {
     "Name": " 냉동 껍질없는 닭다리 정육 2000g ",
@@ -2009,6 +2009,13 @@
     "Barcode": "8696313003863"
   },
   {
+    "Name": "코피코 커피맛 캔디 175g",
+    "Price": 2000,
+    "Count": 2,
+    "CountOrder": 70,
+    "Barcode": "8996001330722"
+  },
+  {
     "Name": "테스 블루베리 36g",
     "Price": 4000,
     "Count": 2,
@@ -2357,13 +2364,6 @@
     "Count": 1,
     "CountOrder": -1,
     "Barcode": "8680838466265"
-  },
-  {
-    "Name": "코피코 커피맛 캔디 175g",
-    "Price": 2000,
-    "Count": 1,
-    "CountOrder": 71,
-    "Barcode": "8996001330722"
   },
   {
     "Name": "블랙 올리브 500g",
