@@ -9630,5 +9630,173 @@
     "BuycompanyName": "우리카드",
     "Msg1": "거래 승인",
     "YMDHMS": "20240426235007"
+  },
+  {
+    "InsDate": "2024-04-27 06:31:48.236",
+    "PayAmount": 6000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427063148"
+  },
+  {
+    "InsDate": "2024-04-27 07:38:05.528",
+    "PayAmount": 7000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427073805"
+  },
+  {
+    "InsDate": "2024-04-27 08:04:56.126",
+    "PayAmount": 3500,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427080456"
+  },
+  {
+    "InsDate": "2024-04-27 08:50:34.475",
+    "PayAmount": 11000,
+    "CardName": "KB 체크카드",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427085034"
+  },
+  {
+    "InsDate": "2024-04-27 08:53:30.800",
+    "PayAmount": 11000,
+    "CardName": "KB 체크카드",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427085330"
+  },
+  {
+    "InsDate": "2024-04-27 09:51:45.244",
+    "PayAmount": 8000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427095145"
+  },
+  {
+    "InsDate": "2024-04-27 09:52:05.629",
+    "PayAmount": 1500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427095205"
+  },
+  {
+    "InsDate": "2024-04-27 10:08:20.635",
+    "PayAmount": 4000,
+    "CardName": "GME체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427100820"
+  },
+  {
+    "InsDate": "2024-04-27 10:57:45.957",
+    "PayAmount": 15700,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427105745"
+  },
+  {
+    "InsDate": "2024-04-27 12:39:42.293",
+    "PayAmount": 23500,
+    "CardName": "롯데카드",
+    "BuycompanyName": "롯데카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427123942"
+  },
+  {
+    "InsDate": "2024-04-27 13:26:12.479",
+    "PayAmount": 3000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427132612"
+  },
+  {
+    "InsDate": "2024-04-27 13:27:14.855",
+    "PayAmount": 26000,
+    "CardName": "IBK비씨카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427132714"
+  },
+  {
+    "InsDate": "2024-04-27 14:45:38.789",
+    "PayAmount": 3000,
+    "CardName": "하나카드",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427144538"
+  },
+  {
+    "InsDate": "2024-04-27 15:42:37.502",
+    "PayAmount": 16000,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427154237"
+  },
+  {
+    "InsDate": "2024-04-27 15:47:51.524",
+    "PayAmount": 2500,
+    "CardName": "지머니트랜스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427154751"
+  },
+  {
+    "InsDate": "2024-04-27 16:56:18.931",
+    "PayAmount": 9400,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427165618"
+  },
+  {
+    "InsDate": "2024-04-27 16:56:52.235",
+    "PayAmount": 12000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427165652"
+  },
+  {
+    "InsDate": "2024-04-27 17:35:20.764",
+    "PayAmount": 8000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427173520"
+  },
+  {
+    "InsDate": "2024-04-27 17:47:14.466",
+    "PayAmount": 14000,
+    "CardName": "우리체크카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427174714"
+  },
+  {
+    "InsDate": "2024-04-27 17:48:07.415",
+    "PayAmount": 16000,
+    "CardName": "삼성비자",
+    "BuycompanyName": "삼성카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427174807"
+  },
+  {
+    "InsDate": "2024-04-27 17:59:40.934",
+    "PayAmount": 3000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240427175940"
   }
 ]
