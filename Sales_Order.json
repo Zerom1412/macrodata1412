@@ -11428,5 +11428,205 @@
     "InsDate": "2024-05-10 00:19:16.313",
     "ApprovalType": "CARD",
     "PayApprovalAmount": 5800
+  },
+  {
+    "InsDate": "2024-05-10 06:49:36.775",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 2500
+  },
+  {
+    "InsDate": "2024-05-10 08:10:28.004",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 6000
+  },
+  {
+    "InsDate": "2024-05-10 10:09:56.598",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 8000
+  },
+  {
+    "InsDate": "2024-05-10 10:13:25.800",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 12000
+  },
+  {
+    "InsDate": "2024-05-10 12:07:54.553",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 4000
+  },
+  {
+    "InsDate": "2024-05-10 13:23:00.970",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 33500
+  },
+  {
+    "InsDate": "2024-05-10 13:39:21.979",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 81000
+  },
+  {
+    "InsDate": "2024-05-10 17:55:57.353",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 4000
+  },
+  {
+    "InsDate": "2024-05-10 18:16:32.915",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 3000
+  },
+  {
+    "InsDate": "2024-05-10 18:21:45.960",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 500
+  },
+  {
+    "InsDate": "2024-05-10 18:52:26.187",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 11500
+  },
+  {
+    "InsDate": "2024-05-10 19:24:26.237",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 6000
+  },
+  {
+    "InsDate": "2024-05-10 20:15:19.079",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 1000
+  },
+  {
+    "InsDate": "2024-05-10 20:33:26.442",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 4000
+  },
+  {
+    "InsDate": "2024-05-10 20:39:08.521",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 6000
+  },
+  {
+    "InsDate": "2024-05-10 20:46:43.976",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 12000
+  },
+  {
+    "InsDate": "2024-05-10 20:48:04.515",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 10000
+  },
+  {
+    "InsDate": "2024-05-10 20:49:41.761",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 6000
+  },
+  {
+    "InsDate": "2024-05-10 20:51:28.646",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 10000
+  },
+  {
+    "InsDate": "2024-05-10 21:25:10.121",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 14200
+  },
+  {
+    "InsDate": "2024-05-10 21:35:24.197",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 8000
+  },
+  {
+    "InsDate": "2024-05-10 21:57:22.196",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 3000
+  },
+  {
+    "InsDate": "2024-05-10 21:58:55.111",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 18000
+  },
+  {
+    "InsDate": "2024-05-10 22:13:56.043",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 12000
+  },
+  {
+    "InsDate": "2024-05-10 22:32:01.517",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 4000
+  },
+  {
+    "InsDate": "2024-05-10 22:32:53.072",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 2000
+  },
+  {
+    "InsDate": "2024-05-10 22:34:14.637",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 53000
+  },
+  {
+    "InsDate": "2024-05-10 22:35:09.566",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 8000
+  },
+  {
+    "InsDate": "2024-05-10 22:37:27.373",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 31500
+  },
+  {
+    "InsDate": "2024-05-10 22:38:39.772",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 24000
+  },
+  {
+    "InsDate": "2024-05-10 22:41:54.670",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 4000
+  },
+  {
+    "InsDate": "2024-05-10 22:42:28.596",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 4000
+  },
+  {
+    "InsDate": "2024-05-10 22:43:02.284",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 2000
+  },
+  {
+    "InsDate": "2024-05-10 23:01:23.404",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 25000
+  },
+  {
+    "InsDate": "2024-05-10 23:03:03.869",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 2000
+  },
+  {
+    "InsDate": "2024-05-10 23:16:42.823",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 3000
+  },
+  {
+    "InsDate": "2024-05-10 23:22:34.054",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 4000
+  },
+  {
+    "InsDate": "2024-05-10 23:31:05.195",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 2000
+  },
+  {
+    "InsDate": "2024-05-11 00:02:57.894",
+    "ApprovalType": "CARD",
+    "PayApprovalAmount": 5000
+  },
+  {
+    "InsDate": "2024-05-11 00:59:47.111",
+    "ApprovalType": "CASH",
+    "PayApprovalAmount": 1000
   }
 ]
