@@ -28845,5 +28845,201 @@
     "Price": 10000,
     "Count": 1,
     "Ins_Date": "2024-05-19"
+  },
+  {
+    "Name": "엑스트라헤이즐넛크림 웨이퍼 50g",
+    "Barcode": "8695504168725",
+    "Price": 500,
+    "Count": 13,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "DINAY GRUSHA / PEAR ",
+    "Barcode": "4780019900572",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "니신와퍼 밀크맛 100g",
+    "Barcode": "8888166989474",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "데나 애플넥타르 1L / Dena Apple",
+    "Barcode": "4780016370019",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "BOUNTY 57gr",
+    "Barcode": "40111216",
+    "Price": 2000,
+    "Count": 2,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "디메스 복숭아 넥타 1L",
+    "Barcode": "8690558010020",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "Khalas 대추야자 1000g",
+    "Barcode": "6291100212866",
+    "Price": 7000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "Damla Mini 40g",
+    "Barcode": "8690997060105",
+    "Price": 500,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "닉스 XXL 50g",
+    "Barcode": "8690562011907",
+    "Price": 500,
+    "Count": 2,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "AURORA 2000g",
+    "Barcode": "7891164083793",
+    "Price": 11000,
+    "Count": 2,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "트러플어솔트먼트 500g",
+    "Barcode": "8693029603370",
+    "Price": 4500,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "트러피나 아몬드&코코넛 450g",
+    "Barcode": "8690351110606",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "트러피나 헤이즐&넛크림 450g",
+    "Barcode": "8682354110653",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "토르쿠 바나다 헤이즐넛크림 위드 코코아 400g",
+    "Barcode": "8690120054384",
+    "Price": 4500,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "폰단테퍼지초콜릿크림 500g",
+    "Barcode": "8695504166356",
+    "Price": 5000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "소토미향라면 75g",
+    "Barcode": 14298112,
+    "Price": 600,
+    "Count": 4,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "HalalSmoked Turkey Sausage 600g",
+    "Barcode": "8809694500023",
+    "Price": 8000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "Halal Nejnaya Sausage 500g",
+    "Barcode": "8809694500207",
+    "Price": 7500,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "Hozayka 5L",
+    "Barcode": "4780052610834",
+    "Price": 16000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "디메스 프루츠믹스 넥타 1L",
+    "Barcode": "8690558013236",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "아덴 마르카나 버미셀리 500g",
+    "Barcode": "8683020400092",
+    "Price": 2000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "아덴 마르카나 펜네리가떼 500g",
+    "Barcode": "8683020400009",
+    "Price": 2000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "디메스 프루츠믹스 넥타 330ml",
+    "Barcode": "8690558020357",
+    "Price": 1500,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "토자 그린티 녹차 95 225g",
+    "Barcode": "4780043530059",
+    "Price": 8000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "크레마리헤이즐넛크림비스킷 61g",
+    "Barcode": "8690120508528",
+    "Price": 500,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "크레마리플레인크림비스킷 61g",
+    "Barcode": "8690120508481",
+    "Price": 500,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "디메스 파인애플 드링크 1L",
+    "Barcode": "8690558014776",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
+  },
+  {
+    "Name": "해바라기 씨 소금맛 200g",
+    "Barcode": "4630007401362",
+    "Price": 4000,
+    "Count": 1,
+    "Ins_Date": "2024-05-20"
   }
 ]
