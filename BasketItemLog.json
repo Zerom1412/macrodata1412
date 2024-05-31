@@ -32506,5 +32506,348 @@
     "Price": 8500,
     "Count": 1,
     "Ins_Date": "2024-05-30"
+  },
+  {
+    "Name": "HalalSmoked Turkey Sausage 600g",
+    "Barcode": "8809694500023",
+    "Price": 8000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "울루다 프루티 복숭아향 200ml",
+    "Barcode": "86933162",
+    "Price": 1000,
+    "Count": 6,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "MOXITO FRESH MANGO",
+    "Barcode": "4600068055439",
+    "Price": 2500,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Somsa",
+    "Barcode": "88014103",
+    "Price": 4000,
+    "Count": 17,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "MOXITO FRESH STRAWBERRY",
+    "Barcode": "4600068054142",
+    "Price": 2500,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "마리오 캐슈넛 비스킷 90g",
+    "Barcode": "8904300200486",
+    "Price": 500,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "닉스 XXL 50g",
+    "Barcode": "8690562011907",
+    "Price": 500,
+    "Count": 6,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "브록크본드 타즈마할 225g",
+    "Barcode": "8901030083051",
+    "Price": 4500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "엑스트라헤이즐넛크림 웨이퍼 50g",
+    "Barcode": "8695504168725",
+    "Price": 500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "DINAY GRUSHA / PEAR ",
+    "Barcode": "4780019900572",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "해바라기유 2L",
+    "Barcode": "8690619012000",
+    "Price": 7500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "니켈 알야 아즈와 대추야자 350g",
+    "Barcode": "6287009830010",
+    "Price": 8000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "양뒷다리 / LAMB WHOLE LEG",
+    "Barcode": "2008080160001",
+    "Price": 16000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "해바라기씨 260g",
+    "Barcode": "8859559600078",
+    "Price": 3000,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "디메스 파인애플 드링크 1L",
+    "Barcode": "8690558014776",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "DINAY YABLOKA / APPLE",
+    "Barcode": "4780019900138",
+    "Price": 3000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Water 500ml",
+    "Barcode": "8801047830849",
+    "Price": 500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "크레마리헤이즐넛크림비스킷 61g",
+    "Barcode": "8690120508528",
+    "Price": 500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": " 치킨향라면 75g ",
+    "Barcode": 14947733,
+    "Price": 600,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "울루다 프루티 딸기 향 200ml",
+    "Barcode": "86933056",
+    "Price": 1000,
+    "Count": 3,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "피아토스 샤워크림향 & 양파맛 감자칩 85g",
+    "Barcode": "4800016671500",
+    "Price": 1200,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "패래스 530g",
+    "Barcode": "8809706580128",
+    "Price": 5500,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "쇠고기 스튜 400g",
+    "Barcode": "8809706580005",
+    "Price": 7000,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Dolma With Beef 350gr",
+    "Barcode": "8809706580111",
+    "Price": 6500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "닭고기 스튜 400g",
+    "Barcode": "8809706580029",
+    "Price": 5000,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "울루다 프루티 그린애플향 200ml",
+    "Barcode": "86933179",
+    "Price": 1000,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "파티믹스 프레첼 300g",
+    "Barcode": "8690562007702",
+    "Price": 2000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "울루다 탄산수 200ml",
+    "Barcode": "8690723511208",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "디메스 프루츠믹스 넥타 330ml",
+    "Barcode": "8690558020357",
+    "Price": 1500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Truffle Tiramisu 92g",
+    "Barcode": "8693029020139",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Fondante Fudge Chocolate Cream 500g",
+    "Barcode": "8695504166356",
+    "Price": 5000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Koska Turkish Delight Mixed Flavoured Karisik Aromali Lokum 125g",
+    "Barcode": "8690710138685",
+    "Price": 5000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Truffle Pistachio 92g",
+    "Barcode": "8693029206274",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Truffle Caramel 92g",
+    "Barcode": "8693029020115",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Truffle Hazelnuts 92g",
+    "Barcode": "8693029020108",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Basmati 쌀 1000g",
+    "Barcode": "8809981700006",
+    "Price": 12000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "XXXL Wafers",
+    "Barcode": "8691720004939",
+    "Price": 1000,
+    "Count": 5,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "니신와퍼 밀크맛 100g",
+    "Barcode": "8888166989474",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "니신와퍼 딸기맛 100g",
+    "Barcode": "8888166337305",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Lactima CREAMY 140g",
+    "Barcode": "5901126011015",
+    "Price": 4000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "Medovik - 1조각",
+    "Barcode": "88012101",
+    "Price": 6000,
+    "Count": 3,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "피아토스 치즈향 감자칩 85g",
+    "Barcode": "4800016644504",
+    "Price": 1200,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "토르쿠 바나다 헤이즐넛크림 위드 코코아 400g",
+    "Barcode": "8690120054384",
+    "Price": 4500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": " 알룐카 밀크 초콜릿 85g ",
+    "Barcode": "4600080449506",
+    "Price": 2000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "라즈베리잼 360g",
+    "Barcode": "8696313100357",
+    "Price": 4500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "해바라기 씨 소금맛 200g",
+    "Barcode": "4630007401362",
+    "Price": 4000,
+    "Count": 2,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "오이절임 640g",
+    "Barcode": "8690804361579",
+    "Price": 4500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": "XXXL Wafers",
+    "Barcode": "8691720004946",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
+  },
+  {
+    "Name": " LAGUSTOSA HAZELNUT Cream Cookies ",
+    "Barcode": "5902768862515",
+    "Price": 2500,
+    "Count": 1,
+    "Ins_Date": "2024-05-31"
   }
 ]
