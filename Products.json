@@ -158,25 +158,25 @@
   {
     "ProdGroupName_ko": "니신와퍼 밀크맛 100g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": -3,
+    "ProdGroupProdCount": -4,
     "BarCodeBarCode": "8888166989474"
   },
   {
     "ProdGroupName_ko": "니신와퍼 딸기맛 100g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 3,
+    "ProdGroupProdCount": 2,
     "BarCodeBarCode": "8888166337305"
   },
   {
     "ProdGroupName_ko": "엑스트라헤이즐넛크림 웨이퍼 50g",
     "SalePrice": 500,
-    "ProdGroupProdCount": 506,
+    "ProdGroupProdCount": 505,
     "BarCodeBarCode": "8695504168725"
   },
   {
     "ProdGroupName_ko": "닉스 XXL 50g",
     "SalePrice": 500,
-    "ProdGroupProdCount": 261,
+    "ProdGroupProdCount": 260,
     "BarCodeBarCode": "8690562011907"
   },
   {
@@ -734,7 +734,7 @@
   {
     "ProdGroupName_ko": "울루다 프루티 복숭아향 200ml",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 72,
+    "ProdGroupProdCount": 70,
     "BarCodeBarCode": "86933162"
   },
   {
@@ -884,7 +884,7 @@
   {
     "ProdGroupName_ko": "울루다 프루티 그린애플향 200ml",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 58,
+    "ProdGroupProdCount": 56,
     "BarCodeBarCode": "86933179"
   },
   {
@@ -1340,7 +1340,7 @@
   {
     "ProdGroupName_ko": "Halal Chicken Frank Sausage 500g",
     "SalePrice": 6500,
-    "ProdGroupProdCount": 16,
+    "ProdGroupProdCount": 15,
     "BarCodeBarCode": "8809694500078"
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "ProdGroupName_ko": "Medovik - 1조각",
     "SalePrice": 6000,
-    "ProdGroupProdCount": -38,
+    "ProdGroupProdCount": -39,
     "BarCodeBarCode": "88012101"
   },
   {
@@ -1958,7 +1958,7 @@
   {
     "ProdGroupName_ko": "해바라기씨 260g",
     "SalePrice": 3000,
-    "ProdGroupProdCount": -32,
+    "ProdGroupProdCount": -33,
     "BarCodeBarCode": "8859559600078"
   },
   {
@@ -2150,7 +2150,7 @@
   {
     "ProdGroupName_ko": "INDOMILK 370gr",
     "SalePrice": 4000,
-    "ProdGroupProdCount": 4,
+    "ProdGroupProdCount": 3,
     "BarCodeBarCode": "8992702000018"
   },
   {
@@ -2654,7 +2654,7 @@
   {
     "ProdGroupName_ko": " LAGUSTOSA APPLE filling Cookies ",
     "SalePrice": 2500,
-    "ProdGroupProdCount": -5,
+    "ProdGroupProdCount": -6,
     "BarCodeBarCode": "5902431560700"
   },
   {
@@ -2726,7 +2726,7 @@
   {
     "ProdGroupName_ko": " 양간 LAMB LIVER ",
     "SalePrice": 7000,
-    "ProdGroupProdCount": -4,
+    "ProdGroupProdCount": -5,
     "BarCodeBarCode": "684070001"
   },
   {
@@ -3044,7 +3044,7 @@
   {
     "ProdGroupName_ko": "XXXL Wafers",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 27,
+    "ProdGroupProdCount": 26,
     "BarCodeBarCode": "8691720004939"
   },
   {
@@ -3056,7 +3056,7 @@
   {
     "ProdGroupName_ko": "MOXITO FRESH",
     "SalePrice": 2500,
-    "ProdGroupProdCount": -2,
+    "ProdGroupProdCount": -3,
     "BarCodeBarCode": "4600068054128"
   },
   {
@@ -3122,7 +3122,7 @@
   {
     "ProdGroupName_ko": "소간 BEEF LIVES",
     "SalePrice": 9000,
-    "ProdGroupProdCount": 0,
+    "ProdGroupProdCount": -1,
     "BarCodeBarCode": "0007680000009"
   },
   {
