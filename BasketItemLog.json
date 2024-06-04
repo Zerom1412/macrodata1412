@@ -34396,5 +34396,173 @@
     "Price": 2500,
     "Count": 1,
     "Ins_Date": "2024-06-03"
+  },
+  {
+    "Name": "해바라기유 2L",
+    "Barcode": "8690619012000",
+    "Price": 7500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "엑스트라헤이즐넛크림 웨이퍼 50g",
+    "Barcode": "8695504168725",
+    "Price": 500,
+    "Count": 3,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "닉스 XXL 50g",
+    "Barcode": "8690562011907",
+    "Price": 500,
+    "Count": 11,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "트러플초콜릿(카라멜향) 92g",
+    "Barcode": "8693029020115",
+    "Price": 1000,
+    "Count": 4,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "트러플초콜릿(헤이즐넛맛) 92g",
+    "Barcode": "8693029020108",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "폰단테퍼지초콜릿크림 500g",
+    "Barcode": "8695504166356",
+    "Price": 5000,
+    "Count": 3,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "콜렉션 코코아코티그 피넛카라멜 누가바 800g",
+    "Barcode": "8690705159169",
+    "Price": 7500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "MOXITO FRESH STRAWBERRY",
+    "Barcode": "4600068054142",
+    "Price": 2500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "마리오 캐슈넛 비스킷 90g",
+    "Barcode": "8904300200486",
+    "Price": 500,
+    "Count": 2,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "마리오 버터 비스킷 90g",
+    "Barcode": "8904300200349",
+    "Price": 500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": " Milkissima Milk 1L ",
+    "Barcode": "5900120010659",
+    "Price": 2000,
+    "Count": 3,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "몬테고 초코칩 쿠키 85g",
+    "Barcode": "8998389121572",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "오레지초코파티크레커 100g",
+    "Barcode": "8998389132066",
+    "Price": 1000,
+    "Count": 2,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "MOXITO FRESH MANGO",
+    "Barcode": "4600068055439",
+    "Price": 2500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "Lali Baked Beans",
+    "Barcode": "8002920012684",
+    "Price": 2000,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "녹두 800g",
+    "Barcode": "2900000000522",
+    "Price": 7000,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "동부콩 800g",
+    "Barcode": "2900000000523",
+    "Price": 3500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "슈퍼유니버셜시즈닝파우더 170g",
+    "Barcode": "4780021591997",
+    "Price": 2500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "울루다 프루티 딸기 향 200ml",
+    "Barcode": "86933056",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "맥심크라운 66g",
+    "Barcode": "8693029033801",
+    "Price": 1000,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "포커스 비스킷 128g",
+    "Barcode": "8695504169463",
+    "Price": 1500,
+    "Count": 1,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "에이비씨 카리아얌 치킨커리향 60g",
+    "Barcode": "8992388121021",
+    "Price": 1500,
+    "Count": 2,
+    "Ins_Date": "2024-06-04"
+  },
+  {
+    "Name": "닉스 XXL 50g",
+    "Barcode": "8690562011907",
+    "Price": 500,
+    "Count": 2,
+    "Ins_Date": "2024-06-05"
+  },
+  {
+    "Name": "Medovik - 1조각",
+    "Barcode": "88012101",
+    "Price": 6000,
+    "Count": 1,
+    "Ins_Date": "2024-06-05"
   }
 ]
