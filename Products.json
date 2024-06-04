@@ -8,7 +8,7 @@
   {
     "ProdGroupName_ko": "몬테고 초코칩 쿠키 85g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 90,
+    "ProdGroupProdCount": 89,
     "BarCodeBarCode": "8998389121572"
   },
   {
@@ -68,7 +68,7 @@
   {
     "ProdGroupName_ko": "마리오 버터 비스킷 90g",
     "SalePrice": 500,
-    "ProdGroupProdCount": -28,
+    "ProdGroupProdCount": -29,
     "BarCodeBarCode": "8904300200349"
   },
   {
@@ -80,7 +80,7 @@
   {
     "ProdGroupName_ko": "마리오 캐슈넛 비스킷 90g",
     "SalePrice": 500,
-    "ProdGroupProdCount": -35,
+    "ProdGroupProdCount": -37,
     "BarCodeBarCode": "8904300200486"
   },
   {
@@ -98,7 +98,7 @@
   {
     "ProdGroupName_ko": "오레지초코파티크레커 100g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 16,
+    "ProdGroupProdCount": 14,
     "BarCodeBarCode": "8998389132066"
   },
   {
@@ -122,7 +122,7 @@
   {
     "ProdGroupName_ko": "맥심크라운 66g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 130,
+    "ProdGroupProdCount": 129,
     "BarCodeBarCode": "8693029033801"
   },
   {
@@ -170,13 +170,13 @@
   {
     "ProdGroupName_ko": "엑스트라헤이즐넛크림 웨이퍼 50g",
     "SalePrice": 500,
-    "ProdGroupProdCount": 498,
+    "ProdGroupProdCount": 495,
     "BarCodeBarCode": "8695504168725"
   },
   {
     "ProdGroupName_ko": "닉스 XXL 50g",
     "SalePrice": 500,
-    "ProdGroupProdCount": 224,
+    "ProdGroupProdCount": 211,
     "BarCodeBarCode": "8690562011907"
   },
   {
@@ -254,7 +254,7 @@
   {
     "ProdGroupName_ko": "포커스 비스킷 128g",
     "SalePrice": 1500,
-    "ProdGroupProdCount": 47,
+    "ProdGroupProdCount": 46,
     "BarCodeBarCode": "8695504169463"
   },
   {
@@ -368,7 +368,7 @@
   {
     "ProdGroupName_ko": "콜렉션 코코아코티그 피넛카라멜 누가바 800g",
     "SalePrice": 7500,
-    "ProdGroupProdCount": 1,
+    "ProdGroupProdCount": 0,
     "BarCodeBarCode": "8690705159169"
   },
   {
@@ -392,7 +392,7 @@
   {
     "ProdGroupName_ko": "폰단테퍼지초콜릿크림 500g",
     "SalePrice": 5000,
-    "ProdGroupProdCount": 51,
+    "ProdGroupProdCount": 48,
     "BarCodeBarCode": "8695504166356"
   },
   {
@@ -458,13 +458,13 @@
   {
     "ProdGroupName_ko": "트러플초콜릿(헤이즐넛맛) 92g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 4,
+    "ProdGroupProdCount": 3,
     "BarCodeBarCode": "8693029020108"
   },
   {
     "ProdGroupName_ko": "트러플초콜릿(카라멜향) 92g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 14,
+    "ProdGroupProdCount": 10,
     "BarCodeBarCode": "8693029020115"
   },
   {
@@ -662,7 +662,7 @@
   {
     "ProdGroupName_ko": "에이비씨 카리아얌 치킨커리향 60g",
     "SalePrice": 1500,
-    "ProdGroupProdCount": -21,
+    "ProdGroupProdCount": -23,
     "BarCodeBarCode": "8992388121021"
   },
   {
@@ -782,7 +782,7 @@
   {
     "ProdGroupName_ko": "해바라기유 2L",
     "SalePrice": 7500,
-    "ProdGroupProdCount": 12,
+    "ProdGroupProdCount": 11,
     "BarCodeBarCode": "8690619012000"
   },
   {
@@ -890,7 +890,7 @@
   {
     "ProdGroupName_ko": "울루다 프루티 딸기 향 200ml",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 37,
+    "ProdGroupProdCount": 36,
     "BarCodeBarCode": "86933056"
   },
   {
@@ -1208,7 +1208,7 @@
   {
     "ProdGroupName_ko": "슈퍼유니버셜시즈닝파우더 170g",
     "SalePrice": 2500,
-    "ProdGroupProdCount": -1,
+    "ProdGroupProdCount": -2,
     "BarCodeBarCode": "4780021591997"
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "ProdGroupName_ko": "Medovik - 1조각",
     "SalePrice": 6000,
-    "ProdGroupProdCount": -42,
+    "ProdGroupProdCount": -43,
     "BarCodeBarCode": "88012101"
   },
   {
@@ -1832,13 +1832,13 @@
   {
     "ProdGroupName_ko": "동부콩 800g",
     "SalePrice": 3500,
-    "ProdGroupProdCount": 37,
+    "ProdGroupProdCount": 36,
     "BarCodeBarCode": "2900000000523"
   },
   {
     "ProdGroupName_ko": "녹두 800g",
     "SalePrice": 7000,
-    "ProdGroupProdCount": 32,
+    "ProdGroupProdCount": 31,
     "BarCodeBarCode": "2900000000522"
   },
   {
@@ -2702,7 +2702,7 @@
   {
     "ProdGroupName_ko": " Milkissima Milk 1L ",
     "SalePrice": 2000,
-    "ProdGroupProdCount": -29,
+    "ProdGroupProdCount": -32,
     "BarCodeBarCode": "5900120010659"
   },
   {
@@ -3062,13 +3062,13 @@
   {
     "ProdGroupName_ko": "MOXITO FRESH MANGO",
     "SalePrice": 2500,
-    "ProdGroupProdCount": -7,
+    "ProdGroupProdCount": -8,
     "BarCodeBarCode": "4600068055439"
   },
   {
     "ProdGroupName_ko": "MOXITO FRESH STRAWBERRY",
     "SalePrice": 2500,
-    "ProdGroupProdCount": -9,
+    "ProdGroupProdCount": -10,
     "BarCodeBarCode": "4600068054142"
   },
   {
@@ -3110,7 +3110,7 @@
   {
     "ProdGroupName_ko": "Lali Baked Beans",
     "SalePrice": 2000,
-    "ProdGroupProdCount": 24,
+    "ProdGroupProdCount": 23,
     "BarCodeBarCode": "8002920012684"
   },
   {
