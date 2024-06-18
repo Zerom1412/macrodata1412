@@ -22110,5 +22110,173 @@
     "BuycompanyName": "NH카드",
     "Msg1": "거래 승인",
     "YMDHMS": "20240617221952"
+  },
+  {
+    "InsDate": "2024-06-18 02:28:25.335",
+    "PayAmount": 1000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618022825"
+  },
+  {
+    "InsDate": "2024-06-18 02:28:56.837",
+    "PayAmount": 17000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618022856"
+  },
+  {
+    "InsDate": "2024-06-18 04:55:23.968",
+    "PayAmount": 9000,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618045523"
+  },
+  {
+    "InsDate": "2024-06-18 08:10:17.019",
+    "PayAmount": 4500,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618081017"
+  },
+  {
+    "InsDate": "2024-06-18 08:14:26.516",
+    "PayAmount": 2000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618081426"
+  },
+  {
+    "InsDate": "2024-06-18 08:45:59.980",
+    "PayAmount": 2000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618084559"
+  },
+  {
+    "InsDate": "2024-06-18 10:19:52.647",
+    "PayAmount": 13000,
+    "CardName": "KB 국민카드",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618101952"
+  },
+  {
+    "InsDate": "2024-06-18 10:20:30.944",
+    "PayAmount": 15000,
+    "CardName": "KB 국민카드",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618102030"
+  },
+  {
+    "InsDate": "2024-06-18 14:54:36.215",
+    "PayAmount": 10000,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618145436"
+  },
+  {
+    "InsDate": "2024-06-18 14:57:00.550",
+    "PayAmount": 4500,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618145700"
+  },
+  {
+    "InsDate": "2024-06-18 15:59:27.919",
+    "PayAmount": 30500,
+    "CardName": "하나BC카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618155927"
+  },
+  {
+    "InsDate": "2024-06-18 16:44:22.855",
+    "PayAmount": 3000,
+    "CardName": "현대비자카드",
+    "BuycompanyName": "현대카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618164422"
+  },
+  {
+    "InsDate": "2024-06-18 17:47:26.259",
+    "PayAmount": 8000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618174726"
+  },
+  {
+    "InsDate": "2024-06-18 18:00:19.122",
+    "PayAmount": 2000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618180019"
+  },
+  {
+    "InsDate": "2024-06-18 18:02:29.507",
+    "PayAmount": 8000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618180229"
+  },
+  {
+    "InsDate": "2024-06-18 19:16:14.527",
+    "PayAmount": 14500,
+    "CardName": "하나카드",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618191614"
+  },
+  {
+    "InsDate": "2024-06-18 19:20:06.296",
+    "PayAmount": 4500,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618192006"
+  },
+  {
+    "InsDate": "2024-06-18 21:15:12.964",
+    "PayAmount": 14500,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618211512"
+  },
+  {
+    "InsDate": "2024-06-18 21:21:49.005",
+    "PayAmount": 24000,
+    "CardName": "우리카드",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618212149"
+  },
+  {
+    "InsDate": "2024-06-18 21:30:29.878",
+    "PayAmount": 4500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618213029"
+  },
+  {
+    "InsDate": "2024-06-18 23:58:44.172",
+    "PayAmount": 9500,
+    "CardName": "지머니트랜스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240618235844"
   }
 ]
