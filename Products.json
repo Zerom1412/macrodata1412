@@ -32,19 +32,19 @@
   {
     "ProdGroupName_ko": "맥오티건포도초코칩오트쿠키 80g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": -7,
+    "ProdGroupProdCount": -8,
     "BarCodeBarCode": "9555701502878"
   },
   {
     "ProdGroupName_ko": "맥오티초콜릿칩오트쿠키 80g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": -28,
+    "ProdGroupProdCount": -29,
     "BarCodeBarCode": "9555701508498"
   },
   {
     "ProdGroupName_ko": "로얄브리티시버터쿠키 80g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 4,
+    "ProdGroupProdCount": 3,
     "BarCodeBarCode": "9555701502861"
   },
   {
@@ -68,7 +68,7 @@
   {
     "ProdGroupName_ko": "마리오 버터 비스킷 90g",
     "SalePrice": 500,
-    "ProdGroupProdCount": -67,
+    "ProdGroupProdCount": -68,
     "BarCodeBarCode": "8904300200349"
   },
   {
@@ -80,7 +80,7 @@
   {
     "ProdGroupName_ko": "마리오 캐슈넛 비스킷 90g",
     "SalePrice": 500,
-    "ProdGroupProdCount": -66,
+    "ProdGroupProdCount": -68,
     "BarCodeBarCode": "8904300200486"
   },
   {
@@ -170,13 +170,13 @@
   {
     "ProdGroupName_ko": "엑스트라헤이즐넛크림 웨이퍼 50g",
     "SalePrice": 500,
-    "ProdGroupProdCount": 469,
+    "ProdGroupProdCount": 467,
     "BarCodeBarCode": "8695504168725"
   },
   {
     "ProdGroupName_ko": "닉스 XXL 50g",
     "SalePrice": 500,
-    "ProdGroupProdCount": 111,
+    "ProdGroupProdCount": 109,
     "BarCodeBarCode": "8690562011907"
   },
   {
@@ -200,7 +200,7 @@
   {
     "ProdGroupName_ko": "에스케이프믹스크래커 150g",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 13,
+    "ProdGroupProdCount": 12,
     "BarCodeBarCode": "8690562007795"
   },
   {
@@ -228,15 +228,15 @@
     "BarCodeBarCode": "8690562002189"
   },
   {
-    "ProdGroupName_ko": "루비마아 비스킷 347g",
-    "SalePrice": 3000,
+    "ProdGroupName_ko": "Lyubimoe  347gr",
+    "SalePrice": 3500,
     "ProdGroupProdCount": 16,
     "BarCodeBarCode": "4607144735018"
   },
   {
     "ProdGroupName_ko": "토쿠페티볼비스킷 700g",
     "SalePrice": 4000,
-    "ProdGroupProdCount": 1,
+    "ProdGroupProdCount": 0,
     "BarCodeBarCode": "8690120060286"
   },
   {
@@ -260,7 +260,7 @@
   {
     "ProdGroupName_ko": "피아토스 치즈향 감자칩 85g",
     "SalePrice": 1200,
-    "ProdGroupProdCount": -3,
+    "ProdGroupProdCount": -4,
     "BarCodeBarCode": "4800016644504"
   },
   {
@@ -284,19 +284,19 @@
   {
     "ProdGroupName_ko": "데나 살구혼합넥타르 1L",
     "SalePrice": 3000,
-    "ProdGroupProdCount": -1,
+    "ProdGroupProdCount": -2,
     "BarCodeBarCode": "4780016370071"
   },
   {
     "ProdGroupName_ko": "데나 석류사과체리넥타르 1L",
     "SalePrice": 3000,
-    "ProdGroupProdCount": -15,
+    "ProdGroupProdCount": -16,
     "BarCodeBarCode": "4780016371030"
   },
   {
     "ProdGroupName_ko": "데나 애플체리넥타르 1L",
     "SalePrice": 3000,
-    "ProdGroupProdCount": -20,
+    "ProdGroupProdCount": -23,
     "BarCodeBarCode": "4780016370309"
   },
   {
@@ -308,7 +308,7 @@
   {
     "ProdGroupName_ko": "데나 복숭아넥타르 1L",
     "SalePrice": 3000,
-    "ProdGroupProdCount": -34,
+    "ProdGroupProdCount": -35,
     "BarCodeBarCode": "4780016370095"
   },
   {
@@ -566,7 +566,7 @@
   {
     "ProdGroupName_ko": "Khalas 대추야자 1000g",
     "SalePrice": 7000,
-    "ProdGroupProdCount": -8,
+    "ProdGroupProdCount": -9,
     "BarCodeBarCode": "6291100212866"
   },
   {
@@ -644,7 +644,7 @@
   {
     "ProdGroupName_ko": "에이비씨 바소 사삐 60g",
     "SalePrice": 1500,
-    "ProdGroupProdCount": -33,
+    "ProdGroupProdCount": -35,
     "BarCodeBarCode": "8992388121090"
   },
   {
@@ -656,7 +656,7 @@
   {
     "ProdGroupName_ko": "에이비씨 아얌 바왕 60g",
     "SalePrice": 1500,
-    "ProdGroupProdCount": -37,
+    "ProdGroupProdCount": -40,
     "BarCodeBarCode": "8992388121038"
   },
   {
@@ -674,19 +674,19 @@
   {
     "ProdGroupName_ko": "미고렝페다스핫라면 80g",
     "SalePrice": 600,
-    "ProdGroupProdCount": -38,
+    "ProdGroupProdCount": -42,
     "BarCodeBarCode": "089686171679"
   },
   {
     "ProdGroupName_ko": "소토미향라면 75g",
     "SalePrice": 600,
-    "ProdGroupProdCount": -57,
+    "ProdGroupProdCount": -59,
     "BarCodeBarCode": "089686170344"
   },
   {
     "ProdGroupName_ko": "미고랭라면 80g",
     "SalePrice": 600,
-    "ProdGroupProdCount": 7,
+    "ProdGroupProdCount": 1,
     "BarCodeBarCode": "089686170733"
   },
   {
@@ -734,7 +734,7 @@
   {
     "ProdGroupName_ko": "울루다 프루티 복숭아향 200ml",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 51,
+    "ProdGroupProdCount": 49,
     "BarCodeBarCode": "86933162"
   },
   {
@@ -806,7 +806,7 @@
   {
     "ProdGroupName_ko": "해바라기 씨 200g",
     "SalePrice": 4000,
-    "ProdGroupProdCount": 24,
+    "ProdGroupProdCount": 23,
     "BarCodeBarCode": "4630007401348"
   },
   {
@@ -878,7 +878,7 @@
   {
     "ProdGroupName_ko": "울루다 탄산수 200ml",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 41,
+    "ProdGroupProdCount": 36,
     "BarCodeBarCode": "8690723511208"
   },
   {
@@ -890,7 +890,7 @@
   {
     "ProdGroupName_ko": "울루다 프루티 딸기 향 200ml",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 21,
+    "ProdGroupProdCount": 20,
     "BarCodeBarCode": "86933056"
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "ProdGroupName_ko": "스타퍼드 페퍼 400g",
     "SalePrice": 4500,
-    "ProdGroupProdCount": 16,
+    "ProdGroupProdCount": 14,
     "BarCodeBarCode": "8691573022197"
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "ProdGroupName_ko": "방오케캡마니스 620ml",
     "SalePrice": 7500,
-    "ProdGroupProdCount": 1,
+    "ProdGroupProdCount": 0,
     "BarCodeBarCode": "8990121011028"
   },
   {
@@ -1364,7 +1364,7 @@
   {
     "ProdGroupName_ko": "HalalSmoked Turkey Sausage 600g",
     "SalePrice": 8000,
-    "ProdGroupProdCount": -14,
+    "ProdGroupProdCount": -15,
     "BarCodeBarCode": "8809694500023"
   },
   {
@@ -1388,7 +1388,7 @@
   {
     "ProdGroupName_ko": "Halal Darojniy Beef Sausage 600g",
     "SalePrice": 9000,
-    "ProdGroupProdCount": -6,
+    "ProdGroupProdCount": -7,
     "BarCodeBarCode": "8809694500108"
   },
   {
@@ -1544,7 +1544,7 @@
   {
     "ProdGroupName_ko": "Medovik - 1조각",
     "SalePrice": 6000,
-    "ProdGroupProdCount": -57,
+    "ProdGroupProdCount": -58,
     "BarCodeBarCode": "88012101"
   },
   {
@@ -1742,7 +1742,7 @@
   {
     "ProdGroupName_ko": "수카리 대추야자",
     "SalePrice": 9000,
-    "ProdGroupProdCount": 27,
+    "ProdGroupProdCount": 26,
     "BarCodeBarCode": "7674619173580"
   },
   {
@@ -2072,7 +2072,7 @@
   {
     "ProdGroupName_ko": "Super Salyami 500g",
     "SalePrice": 9500,
-    "ProdGroupProdCount": -8,
+    "ProdGroupProdCount": -9,
     "BarCodeBarCode": "8809694500283"
   },
   {
@@ -2096,7 +2096,7 @@
   {
     "ProdGroupName_ko": "오이절임 1650g",
     "SalePrice": 8500,
-    "ProdGroupProdCount": 8,
+    "ProdGroupProdCount": 7,
     "BarCodeBarCode": "8690804152504"
   },
   {
@@ -2288,7 +2288,7 @@
   {
     "ProdGroupName_ko": "Dolma With Beef 350gr",
     "SalePrice": 6500,
-    "ProdGroupProdCount": -4,
+    "ProdGroupProdCount": -5,
     "BarCodeBarCode": "8809706580111"
   },
   {
@@ -2474,7 +2474,7 @@
   {
     "ProdGroupName_ko": "Somsa",
     "SalePrice": 4000,
-    "ProdGroupProdCount": -366,
+    "ProdGroupProdCount": -384,
     "BarCodeBarCode": "88014103"
   },
   {
@@ -2564,7 +2564,7 @@
   {
     "ProdGroupName_ko": "HALVA 275gr",
     "SalePrice": 5000,
-    "ProdGroupProdCount": 42,
+    "ProdGroupProdCount": 41,
     "BarCodeBarCode": "4870066002913"
   },
   {
@@ -2600,7 +2600,7 @@
   {
     "ProdGroupName_ko": "DENA TOMATO 1L",
     "SalePrice": 3000,
-    "ProdGroupProdCount": 7,
+    "ProdGroupProdCount": 6,
     "BarCodeBarCode": "4780016370064"
   },
   {
@@ -2702,7 +2702,7 @@
   {
     "ProdGroupName_ko": " Milkissima Milk 1L ",
     "SalePrice": 2000,
-    "ProdGroupProdCount": -45,
+    "ProdGroupProdCount": -47,
     "BarCodeBarCode": "5900120010659"
   },
   {
@@ -2786,7 +2786,7 @@
   {
     "ProdGroupName_ko": "Water 1L",
     "SalePrice": 1000,
-    "ProdGroupProdCount": 31,
+    "ProdGroupProdCount": 30,
     "BarCodeBarCode": "8801047830832"
   },
   {
@@ -2804,7 +2804,7 @@
   {
     "ProdGroupName_ko": "Signiel Wing Stick 1000g",
     "SalePrice": 11500,
-    "ProdGroupProdCount": 1,
+    "ProdGroupProdCount": 0,
     "BarCodeBarCode": "35760725237087"
   },
   {
@@ -2960,7 +2960,7 @@
   {
     "ProdGroupName_ko": "S22 ULTRA CCARD",
     "SalePrice": 1500,
-    "ProdGroupProdCount": 0,
+    "ProdGroupProdCount": -1,
     "BarCodeBarCode": "8801142127080"
   },
   {
@@ -3026,13 +3026,13 @@
   {
     "ProdGroupName_ko": "Kukis SusuVanila 60gr",
     "SalePrice": 600,
-    "ProdGroupProdCount": 44,
+    "ProdGroupProdCount": 43,
     "BarCodeBarCode": "8998389124191"
   },
   {
     "ProdGroupName_ko": "Kukis Mochachino 60gr",
     "SalePrice": 600,
-    "ProdGroupProdCount": 42,
+    "ProdGroupProdCount": 41,
     "BarCodeBarCode": "8998389124177"
   },
   {
@@ -3380,7 +3380,7 @@
   {
     "ProdGroupName_ko": "아메리칸머핀",
     "SalePrice": 3000,
-    "ProdGroupProdCount": -1,
+    "ProdGroupProdCount": -4,
     "BarCodeBarCode": "2008175030004"
   },
   {
@@ -3728,7 +3728,91 @@
   {
     "ProdGroupName_ko": "아메리칸머핀 1ea",
     "SalePrice": 1500,
-    "ProdGroupProdCount": 8,
+    "ProdGroupProdCount": 6,
     "BarCodeBarCode": "2008175015004"
+  },
+  {
+    "ProdGroupName_ko": "Alionka MILK CHOCOLATE",
+    "SalePrice": 2000,
+    "ProdGroupProdCount": 60,
+    "BarCodeBarCode": "4600080299118"
+  },
+  {
+    "ProdGroupName_ko": "Alionka MILK CHOCOLATE",
+    "SalePrice": 2000,
+    "ProdGroupProdCount": 30,
+    "BarCodeBarCode": "4600080299965"
+  },
+  {
+    "ProdGroupName_ko": "Lyubimoe  347gr",
+    "SalePrice": 3500,
+    "ProdGroupProdCount": 36,
+    "BarCodeBarCode": "4607144736350"
+  },
+  {
+    "ProdGroupName_ko": "Lyubimoe  347gr",
+    "SalePrice": 3500,
+    "ProdGroupProdCount": 36,
+    "BarCodeBarCode": "4607144735568"
+  },
+  {
+    "ProdGroupName_ko": "Lyubimoe  347gr",
+    "SalePrice": 3500,
+    "ProdGroupProdCount": 36,
+    "BarCodeBarCode": "4607144735025"
+  },
+  {
+    "ProdGroupName_ko": "Pista 200gr",
+    "SalePrice": 5500,
+    "ProdGroupProdCount": 10,
+    "BarCodeBarCode": "4780094450023"
+  },
+  {
+    "ProdGroupName_ko": "Amond 200gr",
+    "SalePrice": 4000,
+    "ProdGroupProdCount": 10,
+    "BarCodeBarCode": "4780094450016"
+  },
+  {
+    "ProdGroupName_ko": "Keshyu 200gr",
+    "SalePrice": 3500,
+    "ProdGroupProdCount": 9,
+    "BarCodeBarCode": "4780094451112"
+  },
+  {
+    "ProdGroupName_ko": "Greh Oreh (yongoq)",
+    "SalePrice": 4500,
+    "ProdGroupProdCount": 10,
+    "BarCodeBarCode": "4780094451105"
+  },
+  {
+    "ProdGroupName_ko": "Mannay Uvilka 700gr",
+    "SalePrice": 4500,
+    "ProdGroupProdCount": 12,
+    "BarCodeBarCode": "4607016240398"
+  },
+  {
+    "ProdGroupName_ko": "Djin Semechkiy Sol",
+    "SalePrice": 3000,
+    "ProdGroupProdCount": 24,
+    "BarCodeBarCode": "4630007400662"
+  },
+  {
+    "ProdGroupName_ko": "Djin Semechkiy",
+    "SalePrice": 3000,
+    "ProdGroupProdCount": 25,
+    "BarCodeBarCode": "4630007400389"
+  },
+  {
+    "ProdGroupName_ko": "Pryannik Tulenskaya 140gr",
+    "SalePrice": 2000,
+    "ProdGroupProdCount": 22,
+    "BarCodeBarCode": "4601713001719"
+  },
+  {
+    "ProdGroupName_ko": "Pryannik Tulenskaya 140gr",
+    "SalePrice": 2000,
+    "ProdGroupProdCount": 22,
+    "BarCodeBarCode": "4601713001702"
   }
 ]
