@@ -24174,5 +24174,173 @@
     "BuycompanyName": "하나카드",
     "Msg1": "거래 승인",
     "YMDHMS": "20240626231746"
+  },
+  {
+    "InsDate": "2024-06-27 01:02:06.330",
+    "PayAmount": 3000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627010206"
+  },
+  {
+    "InsDate": "2024-06-27 05:20:46.907",
+    "PayAmount": 30500,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627052046"
+  },
+  {
+    "InsDate": "2024-06-27 10:52:34.859",
+    "PayAmount": 8000,
+    "CardName": "KB 체크카드",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627105234"
+  },
+  {
+    "InsDate": "2024-06-27 12:21:04.014",
+    "PayAmount": 13800,
+    "CardName": "현대마스터",
+    "BuycompanyName": "현대카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627122104"
+  },
+  {
+    "InsDate": "2024-06-27 15:09:04.015",
+    "PayAmount": 24000,
+    "CardName": "NH기업체크",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627150904"
+  },
+  {
+    "InsDate": "2024-06-27 17:35:46.388",
+    "PayAmount": 10000,
+    "CardName": "전북은행",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627173546"
+  },
+  {
+    "InsDate": "2024-06-27 17:59:04.012",
+    "PayAmount": 23000,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627175904"
+  },
+  {
+    "InsDate": "2024-06-27 18:55:04.888",
+    "PayAmount": 9500,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627185504"
+  },
+  {
+    "InsDate": "2024-06-27 19:18:49.320",
+    "PayAmount": 30600,
+    "CardName": "삼성마스타",
+    "BuycompanyName": "삼성카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627191849"
+  },
+  {
+    "InsDate": "2024-06-27 19:20:51.221",
+    "PayAmount": 16000,
+    "CardName": "지머니트랜스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627192051"
+  },
+  {
+    "InsDate": "2024-06-27 19:21:13.833",
+    "PayAmount": 4000,
+    "CardName": "삼성마스타",
+    "BuycompanyName": "삼성카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627192113"
+  },
+  {
+    "InsDate": "2024-06-27 19:31:21.041",
+    "PayAmount": 70500,
+    "CardName": "롯데카드",
+    "BuycompanyName": "롯데카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627193121"
+  },
+  {
+    "InsDate": "2024-06-27 20:20:17.660",
+    "PayAmount": 3000,
+    "CardName": "롯데카드",
+    "BuycompanyName": "롯데카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627202017"
+  },
+  {
+    "InsDate": "2024-06-27 20:30:42.943",
+    "PayAmount": 8000,
+    "CardName": "NH체크카드",
+    "BuycompanyName": "NH카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627203042"
+  },
+  {
+    "InsDate": "2024-06-27 22:12:09.248",
+    "PayAmount": 9000,
+    "CardName": "지머니트랜스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627221209"
+  },
+  {
+    "InsDate": "2024-06-27 22:20:31.079",
+    "PayAmount": 8000,
+    "CardName": "IBK비씨체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627222031"
+  },
+  {
+    "InsDate": "2024-06-27 22:35:34.888",
+    "PayAmount": 3000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240627223534"
+  },
+  {
+    "InsDate": "2024-06-28 00:00:09.743",
+    "PayAmount": 2600,
+    "CardName": "iM뱅크BC체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240628000009"
+  },
+  {
+    "InsDate": "2024-06-28 00:01:16.892",
+    "PayAmount": 1000,
+    "CardName": "전북은행",
+    "BuycompanyName": "국민카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240628000116"
+  },
+  {
+    "InsDate": "2024-06-28 00:01:41.604",
+    "PayAmount": 1000,
+    "CardName": "한패스체크",
+    "BuycompanyName": "비씨카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240628000141"
+  },
+  {
+    "InsDate": "2024-06-28 00:02:00.314",
+    "PayAmount": 1000,
+    "CardName": "하나체크",
+    "BuycompanyName": "하나카드",
+    "Msg1": "거래 승인",
+    "YMDHMS": "20240628000200"
   }
 ]
